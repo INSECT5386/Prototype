@@ -3,6 +3,9 @@
         "1": "Citulinkhos ab zatu?",
         "2": "Typogitlinphos. Tyzilinthos."
     },
+    "규칙": {
+        "1": "y 는 아무 소리도 나지 않으며, 앞에 있는 자음은 그대로 발음한다."
+    },
     "문법 요소": {
         "bi": "나",
         "so": "나를 제외한 모든 것",
