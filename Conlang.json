@@ -1,14 +1,12 @@
 {
     "예문": {
-        "1": "si zigir cigiganpana?",
-        "2": "si tsaser tyfahantami.",
-        "3": "si tybitr pebitgantami"
+        "1": "si ganpana cigi mu ziga?",
+        "2": "si gantami petait mu tait"
     },
     "규칙": {
         "1": "l 은 성대를 울리지 않고 바람만 내보낸다."
     },
     "문법 요소": {
-        "-r": "목적격",
         "si ": "나를 제외한 모든 것",
         "su ": "나",
         "-han-": "피동",
