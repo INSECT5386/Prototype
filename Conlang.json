@@ -1,12 +1,4 @@
 {
-    "예문": {
-        "1": "si clpan cigi mu zega?",
-        "2": "si cltam petait mu tait",
-        "3": "su clyab peta mu tait sa zega"
-    },
-    "규칙": {
-        "1": "l 은 성대를 울리지 않고 바람만 내보낸다."
-    },
     "문법 요소": {
         "si ": "나를 제외한 모든 것",
         "su ": "나",
