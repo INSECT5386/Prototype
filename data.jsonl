@@ -398,3 +398,103 @@
 {"english": "A: Did you summarize the history? B: I edited the record to create a short report.", "constructed": "A: sit mu sisclpab su? B: sit mu pesiclkab su, sis mu giclkab su"}
 {"english": "A: Will the planet stay stable? B: I am measuring the force to protect the universe.", "constructed": "A: hul mu queclmam si? B: ed mu teclkan su, hul mu niniclkan su"}
 {"english": "A: Is the cooperation successful? B: I am summarizing the history to prove the peace.", "constructed": "A: ci mu sotclpan si? B: sit mu sisclkan su, net mu nitclkan su"}
+{"english": "A: Does AI follow ethics? B: I designed the ethics code for AI.", "constructed": "A: ecni mu zezi peclka si? B: ecni mu peclkab su."}
+{"english": "A: Are you analyzing the data? B: I am storing the facts in the laboratory.", "constructed": "A: ruxatesi mu peclkan si? B: ruxi mu rucalokan fi cati su."}
+{"english": "A: We should propose a new law. B: I am designing the law for fairness.", "constructed": "A: nini mu gityan si. B: nini mu netclkan su."}
+{"english": "A: Does the machine produce heat? B: The engine is releasing heat now.", "constructed": "A: khal mu raticlkan si? B: quet mu rakhalclkan si."}
+{"english": "A: Did you correct the error? B: I edited the report yesterday.", "constructed": "A: nis mu bitclkab si? B: sit mu pesiclkab su."}
+{"english": "A: Is the virtual world physical? B: No, I created a virtual history.", "constructed": "A: debi mu biclkan si? B: s, debisit mu giclkab su."}
+{"english": "A: Will you study physics? B: I will understand the physical laws.", "constructed": "A: bixat mu pezikam si? B: bixat mu ruziclkam su."}
+{"english": "A: How is the acceleration? B: I am measuring the acceleration of the tool.", "constructed": "A: edquet mu tefolkan si? B: cati mu edquet teclkan su."}
+{"english": "A: Do you understand the algorithm? B: I am learning the logic now.", "constructed": "A: nipeba mu ruziclkan si? B: ni mu peziclkan su."}
+{"english": "A: Is the city expanding? B: I am measuring the expansion of the location.", "constructed": "A: ert mu vepeclkan si? B: er mu ert teclkan su."}
+{"english": "A: Did you deliver the product? B: I moved the product to the warehouse.", "constructed": "A: peba mu tubiclkab si? B: peba mu tuclkab fi rubi su."}
+{"english": "A: Is the water charging the battery? B: The water is charging the electricity.", "constructed": "A: rul mu zetclkan si? B: rul mu ze zetclkan si."}
+{"english": "A: Will we suggest a plan? B: I will schedule the plan tomorrow.", "constructed": "A: peni mu gityan si? B: peni mu pediclkam su."}
+{"english": "A: Is the truth certain? B: I am verifying the facts with science.", "constructed": "A: ruxa mu xatclkan si? B: sa xat ruxa mu pexatclkan su."}
+{"english": "A: Did the teacher explain the logic? B: The teacher explained the law clearly.", "constructed": "A: ni mu raziclkab si? B: nini mu raziclkab si."}
+{"english": "A: Are you feeling stress? B: I am worrying because of the exam.", "constructed": "A: cani mu ruziclkan si? B: lo tesi cani mu peclkan su."}
+{"english": "A: Is the invention finished? B: I started the assembly of the tool.", "constructed": "A: git mu veclkan si? B: cati mu vebaclkan su."}
+{"english": "A: Does light have speed? B: I am calculating the light speed.", "constructed": "A: lo mu quetclkan si? B: loque mu tesiclkan su."}
+{"english": "A: Is the communication broken? B: I am connecting the communication again.", "constructed": "A: cisi mu mislkan si? B: cisi mu miclkan su."}
+{"english": "A: Did you win the success? B: I passed the evaluation.", "constructed": "A: sot mu ruziclkab si? B: tefo mu sotclkab su."}
+{"english": "A: Is the space empty? B: No, I am measuring the particles in space.", "constructed": "A: hul mu ticlkan si? B: hul mu ti teclkan su."}
+{"english": "A: Does the person follow manners? B: I am teaching manners to the person.", "constructed": "A: ec mu ciso mu ruziclkan si? B: ec mu ciso peziclkan su."}
+{"english": "A: Is the machine broken? B: I am repairing the appliance now.", "constructed": "A: caze mu bislkan si? B: caze mu bitclkan su."}
+{"english": "A: Will the planet die? B: I am predicting the death of the world.", "constructed": "A: thuter mu veneclkam si? B: thuter mu vene teclkam su."}
+{"english": "A: Is the air clean? B: I am measuring the air in the atmosphere.", "constructed": "A: huo mu sotclkan si? B: huoer mu huo teclkan su."}
+{"english": "A: Did you write the report? B: I stored the report in the computer.", "constructed": "A: sit mu rasilkab si? B: sit mu ruziclkab su."}
+{"english": "A: Is the logic wrong? B: I found an error in the logic.", "constructed": "A: ni mu nislkan si? B: ni mu nis teclkab su."}
+{"english": "A: Do you use the tool? B: I am using the tool for the experiment.", "constructed": "A: ek mu caclkan si? B: sa pexat cati mu caclkan su."}
+{"english": "A: Is the education high? B: I am providing high education.", "constructed": "A: pezi mu fotclkan si? B: fot mu peziclkan su."}
+{"english": "A: Will you design the robot? B: I will design the logic of the machine.", "constructed": "A: zezi mu peniclkam si? B: caze mu ni peniclkam su."}
+{"english": "A: Is the money increasing? B: I am measuring the increase of money.", "constructed": "A: kikba mu tclkan si? B: kikba mu t teclkan su."}
+{"english": "A: Do you love the art? B: I am creating art in the room.", "constructed": "A: git mu ruziclkan si? B: cabi fi git mu giclkan su."}
+{"english": "A: Is the history long? B: I am studying the history of the land.", "constructed": "A: sit mu diclkan si? B: thuter mu sit peziclkan su."}
+{"english": "A: Is the balance broken? B: I am adjusting the balance of the power.", "constructed": "A: ne mu neslkan si? B: ed mu ne peclkan su."}
+{"english": "A: Did you see the fire? B: I am burning the waste in the factory.", "constructed": "A: khal mu ruziclkab si? B: cati fi fos mu rukhalklkan su."}
+{"english": "A: Is the sea deep? B: I am measuring the water in the sea.", "constructed": "A: ruler mu ticlkan si? B: ruler mu rul teclkan su."}
+{"english": "A: Do you share information? B: I am sharing the data with the friend.", "constructed": "A: si mu tusiclkan si? B: ruxa mu tusiclkan su."}
+{"english": "A: Is the law fair? B: I am judging the fairness of the law.", "constructed": "A: nini mu netclkan si? B: nini mu net teclkan su."}
+{"english": "A: Did you plan the trip? B: I scheduled the trip to the ocean.", "constructed": "A: tuer mu peniclkab si? B: ruler fi tuer mu pediclkab su."}
+{"english": "A: Is the energy low? B: I am charging the energy now.", "constructed": "A: ed mu sclkan si? B: ed mu zetclkan su."}
+{"english": "A: Do you use the map? B: I am drawing the map of the place.", "constructed": "A: teer mu caclkan si? B: er mu teer giclkan su."}
+{"english": "A: Is the growth fast? B: I am accelerating the growth of the plant.", "constructed": "A: quet mu tclkan si? B: neo mu quetclkan su."}
+{"english": "A: Did you hear the chat? B: I am chatting with the AI.", "constructed": "A: cisi mu ruziclkab si? B: zezi mu cisiclkab su."}
+{"english": "A: Is the truth hidden? B: I am announcing the truth to the people.", "constructed": "A: ruxa mu ruclkan si? B: ruxa mu raxaclkan su."}
+{"english": "A: Will you finish the work? B: I will finish the task soon.", "constructed": "A: fot mu veclkam si? B: fot mu veclkam su."}
+{"english": "A: Is the physics hard? B: I am researching the particle physics.", "constructed": "A: bixat mu fotclkan si? B: titexat mu pexatclkan su."}
+{"english": "A: Did you buy the furniture? B: I placed the furniture in the house.", "constructed": "A: caer mu ruziclkab si? B: rubi fi caer mu tuclkab su."}
+{"english": "A: Is the speed decreasing? B: I am slowing down the flow.", "constructed": "A: que mu queslkan si? B: que mu quesclkan su."}
+{"english": "A: Do you know the theory? B: I am studying the scientific theory.", "constructed": "A: xatni mu ruziclkan si? B: xatni mu peziclkan su."}
+{"english": "A: Is the AI smart? B: I am improving the meta-cognition of AI.", "constructed": "A: zezi mu ziclkan si? B: zezi mu zizi bitclkan su."}
+{"english": "A: Did you fail the test? B: No, I passed the exam.", "constructed": "A: teni mu sosclkab si? B: s, teni mu sotclkab su."}
+{"english": "A: Is the logic consistent? B: I am checking the logic for errors.", "constructed": "A: ni mu netclkan si? B: ni mu nis teclkan su."}
+{"english": "A: Do you record the data? B: I am inputting the data now.", "constructed": "A: si mu rasilkan si? B: ruxa mu rusiclkan su."}
+{"english": "A: Is the forest green? B: I am planting trees on the ground.", "constructed": "A: neo mu tclkan si? B: thuter fi neo mu giclkan su."}
+{"english": "A: Did you plan the schedule? B: I am managing the time schedule.", "constructed": "A: tedi mu peniclkab si? B: tedi mu pediclkab su."}
+{"english": "A: Is the communication safe? B: I am protecting the communication logic.", "constructed": "A: cisi mu sotclkan si? B: cisi mu ni bitclkan su."}
+{"english": "A: Will you build the house? B: I am assembling the structure of the house.", "constructed": "A: rubi mu veclkam si? B: rubi mu ba vebaclkan su."}
+{"english": "A: Is the biology interesting? B: I am analyzing the life force.", "constructed": "A: emxat mu ruziclkan si? B: em mu ruxatesiclkab su."}
+{"english": "A: Did you delete the file? B: I deleted the unnecessary data.", "constructed": "A: si mu gisclkab si? B: fos ruxa mu gisclkab su."}
+{"english": "A: Is the sun bright? B: The sun is releasing light energy.", "constructed": "A: lo mu tclkan si? B: lo mu lo ed raclkan si."}
+{"english": "A: Do you use the spoon? B: I am producing the tools in the factory.", "constructed": "A: rati mu caclkan si? B: cati fi rati mu raticlkan su."}
+{"english": "A: Is the diplomacy good? B: I am designing the diplomatic treaty.", "constructed": "A: netmi mu sotclkan si? B: netmi mu peniclkan su."}
+{"english": "A: Did you verify the history? B: I am performing the source criticism.", "constructed": "A: sit mu pexatclkab si? B: siteba mu peclkan su."}
+{"english": "A: Is the density high? B: I am measuring the density of the metal.", "constructed": "A: tique mu fotclkan si? B: kik mu tique teclkan su."}
+{"english": "A: Will you help the people? B: I am cooperating with the humans.", "constructed": "A: ec mu cipeclkam si? B: ec mu cipeclkan su."}
+{"english": "A: Is the machine fast? B: I am measuring the speed of the engine.", "constructed": "A: caze mu quetclkan si? B: quet mu que teclkan su."}
+{"english": "A: Did you suggest the idea? B: I proposed the innovation plan.", "constructed": "A: ruzi mu yalkab si? B: git peni mu yalkab su."}
+{"english": "A: Is the logic simple? B: I am summarizing the logic now.", "constructed": "A: ni mu sclkan si? B: ni mu sisclkan su."}
+{"english": "A: Do you love the nature? B: I am protecting the plants and water.", "constructed": "A: neo mu ruziclkan si? B: neo sa rul mu bitclkan su."}
+{"english": "A: Is the law effective? B: I am testing the law in the city.", "constructed": "A: nini mu vepeclkan si? B: er fi nini mu teniclkan su."}
+{"english": "A: Did you fix the watch? B: I repaired the timer today.", "constructed": "A: teque mu bitclkab si? B: teque mu bitclkab su."}
+{"english": "A: Is the robot learning? B: I am optimizing the learning data.", "constructed": "A: zezi mu peziclkan si? B: ruzipesi mu peclkan su."}
+{"english": "A: Do you create the world? B: I am creating the virtual simulation.", "constructed": "A: bi mu giclkan si? B: debisit mu giclkan su."}
+{"english": "A: Is the light speed fast? B: I am studying the light speed theory.", "constructed": "A: loque mu quetclkan si? B: loque xatni mu peziclkan su."}
+{"english": "A: Did you store the box? B: I put the box in the warehouse.", "constructed": "A: ruti mu ruclkab si? B: rubi fi ruti mu ruclkab su."}
+{"english": "A: Is the medicine working? B: I am improving the health of the person.", "constructed": "A: bit mu vepeclkan si? B: ec mu bitclkan su."}
+{"english": "A: Do you hate the discrimination? B: I am proposing the anti-discrimination law.", "constructed": "A: nes mu ruziclkan si? B: nesni mu yalkab su."}
+{"english": "A: Is the engine stopping? B: I am stopping the flow of energy.", "constructed": "A: quet mu queslkan si? B: ed que mu queclkan su."}
+{"english": "A: Did you move the chair? B: I moved the furniture to the room.", "constructed": "A: caer mu tuclkab si? B: cabi fi caer mu tuclkab su."}
+{"english": "A: Is the communication clear? B: I am editing the message now.", "constructed": "A: cisi mu xatclkan si? B: cisi mu pesiclkan su."}
+{"english": "A: Do you use the computer? B: I am programming the machine.", "constructed": "A: zezi mu caclkan si? B: cazeni mu peclkan su."}
+{"english": "A: Is the evaluation fair? B: I am evaluating the task fairly.", "constructed": "A: tefo mu netclkan si? B: fot mu net teclkan su."}
+{"english": "A: Did you see the star? B: I am looking at the space with the tool.", "constructed": "A: lo mu ruziclkab si? B: sa ek hul mu teclkan su."}
+{"english": "A: Is the heat increasing? B: I am measuring the thermodynamics.", "constructed": "A: khal mu tclkan si? B: dikhal mu teclkan su."}
+{"english": "A: Will you learn the ethics? B: I will understand the ethical code.", "constructed": "A: ecni mu pezikam si? B: ecni mu ruziclkam su."}
+{"english": "A: Is the experiment successful? B: I succeeded in the scientific experiment.", "constructed": "A: pexat mu sotclkan si? B: pexat mu sotclkab su."}
+{"english": "A: Did you wait long? B: I waited for the result for a long time.", "constructed": "A: rudi mu peclkab si? B: lo di sot mu rudiclkab su."}
+{"english": "A: Is the information new? B: I am updating the data report.", "constructed": "A: si mu vitclkan si? B: ruxa sit mu pesiclkan su."}
+{"english": "A: Do you create a tool? B: I am inventing a new tool.", "constructed": "A: ek mu giclkan si? B: vit cati mu giclkan su."}
+{"english": "A: Is the logic complex? B: I am analyzing the logical rules.", "constructed": "A: ni mu fotclkan si? B: nini mu ruxatesiclkan su."}
+{"english": "A: Did you find the location? B: I am drawing the map of the land.", "constructed": "A: er mu ruziclkab si? B: thuter teer mu giclkan su."}
+{"english": "A: Is the death sad? B: I am judging the end of life.", "constructed": "A: vene mu ruziclkan si? B: em vene mu veneclkan su."}
+{"english": "A: Do you share the knowledge? B: I am sharing the scientific knowledge.", "constructed": "A: ex mu tusiclkan si? B: xat ex mu tusiclkan su."}
+{"english": "A: Is the algorithm fast? B: I am accelerating the logic process.", "constructed": "A: nipeba mu quetclkan si? B: ni mu quetclkan su."}
+{"english": "A: Did you clean the room? B: I removed the dirt from the room.", "constructed": "A: cabi mu bitclkab si? B: cabi fi bis mu raclkab su."}
+{"english": "A: Is the air moving? B: The wind is blowing in the atmosphere.", "constructed": "A: huo mu tuclkan si? B: huoer fi huo mu tuclkan si."}
+{"english": "A: Will you design the future? B: I am planning the future history.", "constructed": "A: di mu peniclkam si? B: dim sit mu peniclkan su."}
+{"english": "A: Is the power strong? B: I am measuring the energy resistance.", "constructed": "A: ed mu tclkan si? B: ed mu teclkan su."}
+{"english": "A: Do you use the logic? B: I am solving the problem with logic.", "constructed": "A: ni mu caclkan si? B: sa ni nis mu bitclkan su."}
+{"english": "A: Is the discussion finished? B: I summarized the discussion clearly.", "constructed": "A: cizi mu veclkan si? B: cizi mu sisclkab su."}
