@@ -2,7 +2,7 @@
     "문법": "[목적어] mu [[서술 어근][태][명령 or 의문 or 평서 or 제안][시제]] [주어].",
     "규칙": "서술어는 무조건적으로 항상 태, 의도, 시제를 전부 포함해야한다",
     "예문": {
-        "ren si ye em an ec mu ca stite en xat conniphi clkan chera mu xaphit clkan toi, si ye ninide clkan xaphit": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다."
+        "ren si ye eum an eic mu ca stite en xat conniphi clkan chera mu xaphit clkan toi, si ye ninide clkan xaphit": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다."
     },
     "문법 요소": {
         "si ": "나를 제외한 모든 것",
@@ -61,9 +61,9 @@
             "ra": "정신, 지능",
             
             "eid": "에너지, 힘 또는 저항, 마찰",
-            "ec": "인간, 윤리, 도덕, 비공격적 또는 공격적, 비윤리적",
+            "eic": "인간, 윤리, 도덕, 비공격적 또는 공격적, 비윤리적",
             "ecs": "학문, 지식",
-            "em": "생명력, 생물",
+            "eum": "생명력, 생물",
             "ech": "손, 도구",
             "mer": "장소, 위치"
         }
@@ -178,10 +178,10 @@
         "xalstite": "(데이터 분석)",
         "nibaphi": "(알고리즘)",
         "chexat": "(전자공학)",
-        "emxat": "(생물학)",
+        "eumxat": "(생물학)",
         "bixat": "(물리학)",
         "nixat": "(논리학)",
-        "ecni": "(윤리령/도덕 규정)",
+        "eicni": "(윤리령/도덕 규정)",
         
         "queteid": "(가속도)",
         "queti": "(밀도)",
