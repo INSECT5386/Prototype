@@ -2,7 +2,7 @@
     "문법": "[목적어] mu [[서술 어근][태][명령 or 의문 or 평서 or 제안][시제]] [주어].",
     "규칙": "서술어는 무조건적으로 항상 태, 의도, 시제를 전부 포함해야한다",
     "예문": {
-        "ren si ye eum an eic mu ca scite en xat conniphilacsan chera mu xaphitlacsan toi, si ye ninidelacsan xaphit.": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다."
+        "ren si ye eum an eic mu ca scite en xat conniphilacsun chera mu xaphitlacsun toi, si ye ninidelacsun xaphit.": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다."
     },
     "문법 요소": {
         "si ": "나를 제외한 모든 것",
@@ -20,10 +20,10 @@
         "-lap-": "피동",
         "-lac-": "능동",
         "-lat-": "사동",
-        "-ta-": "명령",
-        "-pa-": "질문",
-        "-sa-": "평서",
-        "-ca-": "제안",
+        "-tu-": "명령",
+        "-pu-": "질문",
+        "-su-": "평서",
+        "-cu-": "제안",
         "-m": "미래",
         "-n": "현재",
         "-b": "과거"
