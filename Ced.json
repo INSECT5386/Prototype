@@ -6,7 +6,7 @@
     "문법": "[목적어] mu [[서술 어근][태][명령 or 의문 or 평서 or 제안][시제]] [주어].",
     "규칙": "서술어는 무조건적으로 항상 태, 의도, 시제를 전부 포함해야한다",
     "예문": {
-        "ren si ye eum an eic mu ca cete en xai connolabacsun chera mu xalaibacsun toi, si ye nonodebacsun xalai.": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다.",
+        "ren hi ye t an eic mu ca cete en xai connolabacsun chera mu xalaibacsun toi, si ye nonodebacsun xalai.": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다.",
         "nono mu ca chera noibacsun hu.": "법률을 인공지능을 사용해서 증명하는 나."
     },
     "문법 요소": {
@@ -61,7 +61,7 @@
             "s": "객관, 확실, 학문, 논리, 규칙 지식 또는 주관, 불확실, 확률, 가능성",     
             "d": "에너지, 힘 또는 저항, 마찰",
             "m": "인간, 윤리, 도덕, 비공격적 또는 공격적, 비윤리적",
-            "t": "생명력, 생물"
+            "tl": "생명력, 생물"
         }
     },
     "자연물 어근": {
@@ -162,7 +162,7 @@
         "sinf": "(알고리즘)",
         
         "zes": "(전자공학)",
-        "ts": "(생물학)",
+        "tls": "(생물학)",
         "schis": "(물리학)",
         "sis": "(이론), (논리학)",
         "thnischis": "(입자 물리학)",
