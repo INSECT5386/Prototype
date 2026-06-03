@@ -2,7 +2,7 @@
     "문법": "[목적어] mu [[서술 어근][태][명령 or 의문 or 평서 or 제안][시제]] [주어].",
     "규칙": "서술어는 무조건적으로 항상 태, 의도, 시제를 전부 포함해야한다",
     "예문": {
-        "ren si ye eum an eic mu ca scete en xai connolalacsun chera mu xalailacsun toi, si ye nonodelacsun xaphai.": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다.",
+        "ren si ye eum an eic mu ca cete en xai connolalacsun chera mu xalailacsun toi, si ye nonodelacsun xaphai.": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다.",
         "nono mu ca chera noilacsun hu.": "법률을 인공지능을 사용해서 증명하는 나."
     },
     "문법 요소": {
@@ -40,7 +40,7 @@
             
             "la": "조작하는, 조절하는",
             "te": "측정하는",
-            "tro": "바꾸는, 전이하는",
+            "to": "바꾸는, 전이하는",
             "ca": "사용하는, 소모하는",
             
             "qe": "속도, 흐름 또는 정지, 고착",
@@ -112,7 +112,7 @@
 
         "erte": "장소를 측정하는",
         "erla": "장소를 조작하는",
-        "ertro": "장소를 이동하는",
+        "erto": "장소를 이동하는",
         "eri": "장소가 커지는",
         "eru": "장소가 작아지는",
         "erca": "장소를 사용하는",
@@ -162,7 +162,7 @@
         "cete": "정보를 측정하는",
         "cel": "정보를 수용하는",
         "cer": "정보를 방출하는",
-        "cetro": "정보를 전이하는",
+        "ceto": "정보를 전이하는",
         "ceci": "정보가 상호작용하는",
         
         "raci": "지능이 상호작용하는",
