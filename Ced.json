@@ -6,13 +6,12 @@
     "문법": "[목적어] mu [[서술 어근][태][명령 or 의문 or 평서 or 제안][시제]] [주어].",
     "규칙": "서술어는 무조건적으로 항상 태, 의도, 시제를 전부 포함해야한다",
     "예문": {
-        "ren hi ye t an eic mu ca cete en xai connolabacsun chera mu xalaibacsun toi, si ye nonodebacsun xalai.": "만약, 그것이 생물 또는 사람을 통계과 과학을 사용해서 설계하는 것이 목표인 인공지능을 연구하는 것이라면, 그것은 법에 대항하는 연구이다.",
-        "nono mu ca chera noibacsun hu.": "법률을 인공지능을 사용해서 증명하는 나."
+        "sic me c zesth sfibacsun hu.": "법률을 인공지능을 사용해서 증명하는 나."
     },
     "문법 요소": {
         "hi": "나를 제외한 모든 것",
         "hu": "나",
-        "[B] mu [A]": "[B] 를 [A] 하는",
+        "[B] me [A]": "[B] 를 [A] 하는",
         "c [A]": "[A] 를 사용해서",
         "lo [A]": "[A] 때문에 / [A] 에 의해",
         "fi [A]": "장소 [A]으로 / 장소 [A]에",
