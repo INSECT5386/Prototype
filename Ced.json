@@ -1,6 +1,6 @@
 {
     "음소": {
-        "자음": "t, th, c, ch, x, p, ph, d, g, b, v, z, r, l, s, m, n, y",
+        "자음": "t, th, c, ch, x, p, ph, h, d, g, b, v, z, r, l, s, m, n, y",
         "모음": "a, e, i, u"
     },
     "문법": "[목적어] mu [[서술 어근][태][명령 or 의문 or 평서 or 제안][시제]] [주어].",
