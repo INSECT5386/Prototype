@@ -1,4 +1,8 @@
 {
+  "규칙": {
+    "1": "모든 복합어는 '구(phrase)' 의 형태이다.",
+    "2": "'전치수식'을 사용한다."
+  },
   "예문": {
     "1": "va em siena tunpa te cebina o siena lin."
   },
