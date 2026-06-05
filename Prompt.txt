@@ -45,19 +45,13 @@
   }
 }
 # '예시' 에 있는 데이터 를 그대로 복사 하거나 참조 하지 말 것 .
-주제 : 
-"""
---- Generated Prompt #1 ---
-Write a comprehensive textbook chapter about Pandemic preparedness tailored for software engineering job interviewees.
-"""
 ---
-문법 :
-"""
-[목적어] mu [[서술 어근][태][명령 or 의문 or 평서 or 제안][시제]] [주어] # 서술어 는 항상 태 , 의도 , 시제 를 포함 해야 한다 .
-"""
+명령 : 주어진 인공어 를 사용 하여 , Textbook 형식 의 jsonl 데이터 를 '1 개' 작성 하시오 . 
 ---
-명령 : 주어진 인공어 를 사용 하여 , 주어진 '주제' 에 대한 jsonl 데이터 를 작성 하시오 . 
-중요-1 : 'text' 컬럼 하나 만 사용 하고 , **'인공어 로만'** 작성 한다 .
+중요 : 대화문 이 아닌 'Textbook' 데이터 이며 , 'text' 컬럼 하나 만 사용 하고 , **'인공어 로만'** 작성 한다 .
 ---
-각 데이터는 1000 단어 이상이어야 한다.
-**내용 또는 구조의 반복이나 중복은 없어야한다.**
+각 데이터는 내용의 반복이나 중복은 없어야한다.
+데이터의 형태 : 
+"""
+### Lesson : [주제]\n**Introduction:**\n[내용1] # 토론 및 학습 내용 정의\n**Section 1:**\n[본문 1] # 실제 사례 또는 예시\n**Section 2:**\n[본문2] # 근거 및 보충\n**Section 3:**\n[본문3] # Key-value 식 정리\n### Discussion\n[Q: [질문]\nA: [답변]] * (결론 이 도출 될 때 까지 . 하지만 , **'최소 3 턴 이상'** )\n**Summation :**\n[요약]\nConclusion:\n[결론]
+"""
