@@ -45,6 +45,7 @@
 ---
 Prompt :Write a comprehensive textbook chapter about Value added tax tailored for software engineering job interviewees.
 
-명령 : 주어진 인공어 를 사용 하여 , 주어진 '주제' 에 대한 jsonl 데이터 를 작성 하시오 . 
-중요-1 : 'text' 컬럼 하나 만 사용 하고 , **'인공어 로만'** 작성 한다 .
-중요-2 : 필요한 단어 는 정의된 어근 만 을 사용 하여 직접 조합 하시오 
+명령 : 주어진 인공어를 사용하여 , 주어진 '주제' 에 대한 jsonl 형태의 데이터를 작성 하시오. 
+중요-1 : 'text' 컬럼 하나만 사용 하고 , **'인공어 로만'** 작성 한다.
+중요-2 : 필요한 단어는 정의된 어근만을 사용하여 직접 조합하시오.
+중요-3 : 데이터는 무조건 논리적인 서술과 '3단 전개 기법' 을 사용하십시오.
