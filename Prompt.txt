@@ -43,10 +43,11 @@
   }
 }
 ---
-Prompt :Write a comprehensive textbook chapter about Value added tax tailored for software engineering job interviewees.
+Prompt : Write a comprehensive textbook chapter about Psychoanalysis foundations tailored for curious general public.
 
 명령 : 주어진 인공어를 사용하여 , 주어진 '주제' 에 대한 jsonl 형태의 데이터를 작성 하시오. 
 중요-1 : 'text' 컬럼 하나만 사용 하고 , **'인공어 로만'** 작성 한다.
 중요-2 : 필요한 단어는 정의된 어근만을 사용하여 직접 조합하시오.
 중요-3 : 데이터에서 같은 문장 패턴 또는 완전히 같은 내용이 2회 이상 반복됨이 확인될시 무효로 하고, 다시 생성한다.
+중요-4 : 한 'Lesson' 은 최소 500 단어이어야 한다.
 데이터의 형태 : {"text": "### Lesson : [주제]\n**Introduction:**\n[내용1]\n**Section 1:**\n[본문 1]\n**Section 2:**\n[본문2]\n**Section 3:**\n[본문3]\n**Summation :**\n[요약]\nConclusion:\n[결론]"}
