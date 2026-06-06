@@ -52,5 +52,5 @@
 각 데이터는 내용의 반복이나 중복은 없어야한다.
 데이터의 형태 : 
 """
-### Lesson : [주제]\n**Introduction:**\n[내용1] # 토론 및 학습 내용 정의\n**Section 1:**\n[본문 1] # 실제 사례 또는 예시\n**Section 2:**\n[본문2] # 근거 및 보충\n**Section 3:**\n[본문3] # Key-value 식 정리\n### Discussion\n[Q: [질문]\nA: [답변]] * (결론 이 도출 될 때 까지 . 하지만 , **'최소 3 턴 이상'** )\n**Summation :**\n[요약]\nConclusion:\n[결론]
+### Lesson : [주제]\n**Introduction:**\n[내용1] # 토론 및 학습 내용 정의\n**Section 1:**\n[본문 1] # 실제 사례 또는 예시\n**Section 2:**\n[본문2] # 근거 및 보충\n**Section 3:**\n[본문3] # Key-value 식 정리\n**Summation :**\n[요약]\nConclusion:\n[결론]
 """
