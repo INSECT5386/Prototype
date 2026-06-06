@@ -50,3 +50,7 @@ Prompt :Write a comprehensive textbook chapter about Value added tax tailored fo
 중요-2 : 필요한 단어는 정의된 어근만을 사용하여 직접 조합하시오.
 중요-3 : 데이터는 무조건 논리적인 서술과 '도입-소개-세션1-세션2-세션3-요약-결론' 형태로 작성하십시오.
 중요-3.5 : '도입-소개-세션1-세션2-세션3-요약-결론' 구조에서 각 단계는 절대 10문장 이하일 수 없습니다.
+데이터의 형태 : 
+"""
+### Lesson : [주제]\n**Introduction:**\n[내용1] # 토론 및 학습 내용 정의\n**Section 1:**\n[본문 1] # 실제 사례 또는 예시\n**Section 2:**\n[본문2] # 근거 및 보충\n**Section 3:**\n[본문3] # Key-value 식 정리\n**Summation :**\n[요약]\nConclusion:\n[결론]
+"""
