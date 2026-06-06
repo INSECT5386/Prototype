@@ -43,7 +43,8 @@
   }
 }
 ---
-Prompt : Write a comprehensive 1:1 Q&A dialogue about Concurrency and parallelism tailored for software engineering job interviewees.
+Prompt :Write a comprehensive textbook chapter about Value added tax tailored for software engineering job interviewees.
+
 명령 : 주어진 인공어 를 사용 하여 , 주어진 '주제' 에 대한 jsonl 데이터 를 작성 하시오 . 
 중요-1 : 'text' 컬럼 하나 만 사용 하고 , **'인공어 로만'** 작성 한다 .
 중요-2 : 필요한 단어 는 정의된 어근 만 을 사용 하여 직접 조합 하시오 
