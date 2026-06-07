@@ -45,15 +45,22 @@
   }
 }
 ---
-여러분의 과제는 백과사전 항목을 작성하는 것입니다.
-내용은 매우 간결해야 합니다.
+Your task is to write an encyclopedia entry.
+
+The content must be very concise.
+
 {topic} = speed
 
-텍스트 작성 규칙:
+Text Writing Rules:
 
-언어: 아주 간단한 영어 단어를 사용하여 1차적으로 초인을 작성한 뒤, 그것을 인공어로 번역하십시오. 필요한 개념은 구(phrase)의 형태로 직접 만드셔야합니다. 모든 글은 한 줄로 
-문장: 각 문장은 최소 15단어, 최대 25단어를 넘지 않아야 합니다.
-구성: 주제를 설명하는 한 문장으로 시작하세요. 그런 다음 7~10문장으로 된 짧은 단락들을 추가하세요.
-내용: 핵심적인 사실만 설명하십시오. 세부 사항, 숫자 및 전문 용어는 피하십시오.
-형식: 제목이나 소개글 없이 일반 텍스트만 반환합니다.
-이제 해당 주제에 대한 항목을 생성하세요 {topic}.
+Language: First, write the superintendent using very simple English words, then translate it into an conlang. You must create any necessary concepts yourself in the form of phrases. All text must be on a single line.
+
+Sentences: Each sentence must not exceed 15 words and 25 words.
+
+Structure: Start with a single sentence explaining the topic. Then, add short paragraphs of 7 to 10 sentences.
+
+Content: Explain only the key facts. Avoid details, numbers, and technical terms.
+
+Format: Return only plain text without a title or introduction.
+
+Now, create an entry for the topic {topic}.
