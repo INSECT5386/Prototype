@@ -49,7 +49,7 @@ Your task is to write an encyclopedia entry.
 
 The content must be very concise.
 
-Topic: {topic}
+{topic} = speed
 
 Text Writing Rules:
 
