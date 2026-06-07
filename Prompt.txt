@@ -49,18 +49,18 @@ Your task is to write an encyclopedia entry.
 
 The content must be very concise.
 
-{topic} = speed
+Topic: {topic}
 
 Text Writing Rules:
 
-Language: First, write the superintendent using very simple English words, then translate it into an conlang. You must create any necessary concepts yourself in the form of phrases. All text must be on a single line.
+Language: First, write using only simple English words, then translate the content into an conlang.
 
 Sentences: Each sentence must not exceed 15 words and 25 words.
 
 Structure: Start with a single sentence explaining the topic. Then, add short paragraphs of 7 to 10 sentences.
 
-Content: Explain only the key facts. Avoid details, numbers, and technical terms.
+Content: Explain only the key facts. Avoid details, numbers, and jargon.
 
-Format: Return only plain text without a title or introduction.
+Format: Return plain text without a title or introduction.
 
 Now, create an entry for the topic {topic}.
