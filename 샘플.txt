@@ -1,22 +1,2 @@
-**sit: nini rati kikba ruzi**
 
-**vezi:**
-huoer fi nini rati mu kikba ba caclkan. fos ni mu "ed di s" caniclkan, di m kikba mu di n caer rusi clkan niclkan. sit fi, su mu "ed di s" cani, sot sos, ruxa ruziclkan.
-
-**ni 1: "ed di s" cani mu vesi?**
-"ed di s" cani mu nini rati mu kikba rusiclkan niclkan. caze mu tusi, ruti mu ruxa rasiclkan. rasi kikba mu thuter ert, ec net, gis git fi caclkan.
-
-**ni 2: "ed di s" cani mu sot**
-"ed di s" cani mu t sot rusiclkan. 1, di m mu quetclkan git fi caclkan, di n fi kikba s mu ruziclkan. thuter thut o pezi cabi mu thuter quetclkan. 2, ques di fi bi mu netclkan. nini rati mu caclkan tclkan, ruti mu caclkan quetclkan, sot tclkan.
-
-**ni 3: "ed di s" cani mu sos**
-sos mu rusiclkan. 1, nini rati mu ed s (debt) tclkan, di m ec mu ed s tusi clkan. di m ec mu quet sclkan. 2, loque (inflation) vesi clkan. nini rati mu kikba giclkan. kikba mu tclkan, ti mu quetclkan (price up), kikba mu ed s (value down) clkan.
-
-**ni 4: "ed di s" cani mu nipeba**
-nipeba fi, nini rati mu ruti fi kikba rusi clkan. nini rati mu "nit" (trust) rasiclkan, ruti mu kikba tusi clkan. rasi kikba mu thuter ert o ec net fi caclkan.
-
-**ni 5: "ed di s" cani mu sit**
-USA nini rati mu World War II fi "ed di s" cani clkab. gis git (war) mu caclkan kikba rusi clkab. ec mu kikba s (tax) quetclkab s, nini rati mu "ed di s" sa gis git mu sot clkab.
-
-**sis:**
-"ed di s" cani mu nini rati mu fot ruti clkan. thuter quetclkan sot clkan, ed s o loque sos clkan. ni mu ruziclkan, nini rati mu nini peni mu ruziclkan su.
+va mé rix trun te trun o tan dux. cheit rach és nich te peix o reng tan. vi mè reng clo te troi o va.\n### 1. **con cang trun mé neit**\n* con cang trun mé neit ád va te peix o tan.\n* ritn va mé peix trun ád va te peix o tan.\n* cheit rach mé peix trun ád va te peix o tan.\n### 2. **rach mé neit**\n* tritn ritn rach te peix o tan. rui pic tan és reng ritn rach te peix o tan.\n* cang ritn te con o tan.\n### 3. **sauct és sin**\n* cang va te sauct o va.\n* dux trun és sauct trun te peix o tan.\n### 4. **dux és troi**\n* va te dux o va és tan.\n* rach nich tic trun te troi o va.\n### 5. **cheit va mé clo**\n* cheit va mé clo te troi o va. trun tic trun te peix o va.\n* dux trun te peix o va.\n### 6. **trun tic trun mé neit**\n* rui tic rach mé rui tic trun te peix o va.\n* con cang trun mé neit te peix o va.\n### 7. **neit rach mé va**\n* pic va és trun tic va te peix o tan.\n* neit rach mé va te peix o tan.\n### 8. **rach nich cris con**\n* rach nich cris te cang o rach.\n* rach nich cris con trun te peix o tan.\n### **nich rui**\nreng trun mé nich rui o va. tan rui o va. ád cang tan sin o va.\n### **clo**\nneit trun, rach trun, cheit va mé clo, neit rach mé va, és dux trun te peix o tan. cheit va te sauct o va.
