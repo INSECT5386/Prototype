@@ -4,13 +4,13 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 예문
-- va mé rix trun te trun o tan dux.
-- cheit rach és nich te peix o reng tan.
-- vi mè reng clo te troi o va.
-- va mè reng te sem crex o cang rix.
-- troi trun te ritn, crex o reng crex.
+- va mé riren trun te trun o tan ditun.
+- cheit rachal és nachan te pepin o reng tan.
+- vi mè reng cocol te troi o va.
+- va mè reng te sem cecren o cang riren.
+- troi trun te ritn, cecren o reng cecren.
 - va te res, pic o reng pic.
-- va mè reng te ces, dux o petn dux.
+- va mè reng te ces, ditun o petn ditun.
 ---
 ### 어근
 
@@ -21,7 +21,7 @@
 - cris 차이, 다른, 반면에 또는 무언가를 조절, 수정, 대체하는 모든 바꾸는 행위
 - mim 어떤 것을 수용하는 것
 - nam 어떤 것을 방출 또는 전달하는 것
-- sauct 무언가를 제작, 복원, 치료하는 행위 또는 손
+- suct 무언가를 제작, 복원, 치료하는 행위 또는 손
 - nex 무언가를 손상, 망침, 해치는 행위
 - rui 무언가가 상승 또는 증가하는 모든 것
 - cui  무언가가 하강 또는 감소하는 모든 것
@@ -32,17 +32,17 @@
 - sem 할 수 있다
 - trun 도구, 기계, 사용하다, 소모하다, 소비하다
 - tan 무언가, 물체, 물건, 물질, 그것, 것
-- rix 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
-- clo 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
-- tep 냄새, 냄새를 풍기다, 향수
+- riren 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
+- cocol 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
+- tetep 냄새, 냄새를 풍기다, 향수
 - troi 보다, 알다, 이해하다, 시각, 시력, 눈
-- dux 배우다, 연구하다, 탐구적인, 학문, 교육
+- ditun 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - pic 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
-- peix 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
-- crex 기억하다, 저장하다, 보관하다, 정보, 기록, 책
-- nich 시간, 인과, 순서, 직렬, 원인
-- rach 공간, 차원, 장소, 병렬, 결과
+- pepin 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
+- cecren 기억하다, 저장하다, 보관하다, 정보, 기록, 책
+- nachan 시간, 인과, 순서, 직렬, 원인
+- rachal 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
 - neit 중심, 중앙, 집중, 국소, 핵
 - cheit : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
