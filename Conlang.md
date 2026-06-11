@@ -1,16 +1,17 @@
+### 규칙
 1. 모든 복합어는 구(phrase) 형태이다.
 2. ‘전치수식’을 사용한다.
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
-
-— 예문 —
-va mé rix trun te trun o tan dux.
-cheit rach és nich te peix o reng tan.
-vi mè reng clo te troi o va.
-va mè reng te sem crex o cang rix.
-troi trun te ritn, crex o reng crex.
-va te res, pic o reng pic.
-va mè reng te ces, dux o petn dux.
-————
+---
+### 예문
+- va mé rix trun te trun o tan dux.
+- cheit rach és nich te peix o reng tan.
+- vi mè reng clo te troi o va.
+- va mè reng te sem crex o cang rix.
+- troi trun te ritn, crex o reng crex.
+- va te res, pic o reng pic.
+- va mè reng te ces, dux o petn dux.
+---
 
 reng 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 cang 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
