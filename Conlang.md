@@ -9,7 +9,7 @@ C : c, ch, m, n, s, p, t, g, d, h, y
 ---
 ### 예문
 - a mú san myou ta myou o gan nec.
-- myocu chab sá duc ta tyua o gan.
+- myon chab sá duc ta tyua o gan.
 - i cyoa ta hec o a.
 - a mù gec ta soa non o choc san.
 - hec myou ta ritn, non o gec non.
@@ -49,7 +49,7 @@ C : c, ch, m, n, s, p, t, g, d, h, y
 - duc 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
 - neit 중심, 중앙, 집중, 국소, 핵
-- myocu : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
+- myon : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
 - tritn 불타다, 뜨거운, 불, 빛나다, 화재, 발화
 - ritn 흐르다, 유동적인, 액체, 물 또는 하고 있다
 - petn 따가운, 전기적인, 전기
