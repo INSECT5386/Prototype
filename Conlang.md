@@ -4,17 +4,17 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 예문
-- va mé mykwe trun te trun o sip pil.
-- mon pyot sé goc te ryec o tshuc sip.
-- vi mè tshuc cocol te troi o va.
-- va mè tshuc te sem gen o cang riren.
-- troi trun te ritn, gen o tshuc gen.
-- va te mam, dyaw o tshuc dyaw.
-- va mè tshuc te hen, pil o petn pil.
+- va mé mykwe trun te trun o sip byalw.
+- mon pyot sé goc te ryec o sip.
+- vi cocol te troi o va.
+- va mè yoppw te sem gen o cang riren.
+- troi trun te ritn, gen o yoppw gen.
+- va te mam, dyaw o yoppw dyaw.
+- va mè yoppw te hen, byalw o petn byalw.
 ---
 ### 어근
 
-- tshuc 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- yoppw 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - cang 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
@@ -36,7 +36,7 @@
 - cocol 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
 - troi 보다, 알다, 이해하다, 시각, 시력, 눈
-- pil 배우다, 연구하다, 탐구적인, 학문, 교육
+- byalw 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyaw 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
