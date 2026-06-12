@@ -4,17 +4,17 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 음소
-V : e[ɨ], o[o], u[u], a[ə]
+V : e[ɨ], o[o], u[u], a[ə], i[i]
 C : c, ch, m, n, s, p, t, g
 ---
 ### 예문
-- va mú san sop ta sop o gan nec.
+- a mú san sop ta sop o gan nec.
 - myocu sytui sé rylut ta tyua o gan.
-- vi cyou ta nychu o va.
-- va mù gec ta sem non o choc san.
+- i cyou ta nychu o a.
+- a mù gec ta sem non o choc san.
 - nychu sop ta ritn, non o gec non.
-- va ta mam, dyau o gec dyau.
-- va mù gec ta hen, nec o petn nec.
+- a ta mam, dyau o gec dyau.
+- a mù gec ta hen, nec o petn nec.
 ---
 ### 어근 |
 
@@ -58,4 +58,4 @@ C : c, ch, m, n, s, p, t, g
 - mú / mù -의 / 부사어
 - o 목적어
 - ta 서술어
-- va / vi 나, 사람 / 나 이외의 모든 것
+- a / i 나, 사람 / 나 이외의 모든 것
