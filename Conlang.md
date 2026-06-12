@@ -5,7 +5,7 @@
 ---
 ### 예문
 - va mé mykue pytua te pytua o yeu byalu.
-- mon pyot sé goc te ryec o yeu.
+- myocu pyot sé goc te ryec o yeu.
 - vi cyou te nychu o va.
 - va mè eymu te sem gen o aytu mykue.
 - nychu pytua te ritn, gen o eymu gen.
@@ -45,7 +45,7 @@
 - goc 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
 - neit 중심, 중앙, 집중, 국소, 핵
-- mon : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
+- myocu : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
 - tritn 불타다, 뜨거운, 불, 빛나다, 화재, 발화
 - ritn 흐르다, 유동적인, 액체, 물 또는 하고 있다
 - petn 따가운, 전기적인, 전기
