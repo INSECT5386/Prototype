@@ -8,17 +8,17 @@ V : e[ɨ], o[o], u[u], a[ə], i[i]
 C : c, ch, m, n, s, p, t, g, d, h, y, r
 ---
 ### 예문
-- a mú san myou ta myou o gan nec.
-- myon chab sá duc ta tyua o gan.
+- a mú san myou ta myou o gan niec.
+- myon chap sá duc ta tyua o gan.
 - i cyoa ta hec o a.
-- a mù gec ta soa non o choc san.
-- hec myou ta rat, non o gec non.
-- a ta mam, dyua o gec dyua.
-- a mù gec ta han, nec o mat nec.
+- a mù giec ta soa non o choc san.
+- hiec myou ta rat, non o giec non.
+- a ta mam, dyua o giec dyua.
+- a mù giec ta han, nec o mat niec.
 ---
 ### 어근 |
 
-- gec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- giec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - choc 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
@@ -39,8 +39,8 @@ C : c, ch, m, n, s, p, t, g, d, h, y, r
 - san 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cyoa 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - pat 냄새, 냄새를 풍기다, 향수
-- hec 보다, 알다, 이해하다, 시각, 시력, 눈
-- nec 배우다, 연구하다, 탐구적인, 학문, 교육
+- hiec 보다, 알다, 이해하다, 시각, 시력, 눈
+- niec 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyua 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tya 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
