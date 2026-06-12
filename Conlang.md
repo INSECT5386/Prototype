@@ -5,13 +5,13 @@
 ---
 ### 음소
 V : e[ɨ], o[o], u[u], a[ə]
-C : kh, c, ch, m, n, s, p, d
+C : kh, c, ch, m, n, s, p, t
 ---
 ### 예문
 - va mé mykue pyu te pyu o yeu byaul.
 - myocu sytui sé rylut te tyua o yeu.
 - vi cyou te nychu o va.
-- va mè khec te sem ryul o aytu mykue.
+- va mè khec te sem ryul o chon mykue.
 - nychu pyu te ritn, ryul o khec ryul.
 - va te mam, dyau o khec dyau.
 - va mè khec te hen, byaul o petn byaul.
@@ -19,7 +19,7 @@ C : kh, c, ch, m, n, s, p, d
 ### 어근 |
 
 - khec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
--  인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
+- chon 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
 - cicrat 차이, 다른, 반면에 또는 무언가를 조절, 수정, 대체하는 모든 바꾸는 행위
