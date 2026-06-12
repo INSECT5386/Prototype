@@ -5,6 +5,7 @@
 ---
 ### 음소
 V : e[ɨ], o[o], u[u], a[ə]
+C : kh, c, m, n, s, p, d
 ---
 ### 예문
 - va mé mykue pyu te pyu o yeu byaul.
