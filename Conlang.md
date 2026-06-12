@@ -11,14 +11,14 @@ C : kh, c, m, n, s, p, d
 - va mé mykue pyu te pyu o yeu byaul.
 - myocu sytui sé rylut te tyua o yeu.
 - vi cyou te nychu o va.
-- va mè eymu te sem ryul o aytu mykue.
-- nychu pyu te ritn, ryul o eymu ryul.
-- va te mam, dyau o eymu dyau.
-- va mè eymu te hen, byaul o petn byaul.
+- va mè khec te sem ryul o aytu mykue.
+- nychu pyu te ritn, ryul o khec ryul.
+- va te mam, dyau o khec dyau.
+- va mè khec te hen, byaul o petn byaul.
 ---
 ### 어근 |
 
-- eymu 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- khec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - aytu 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
