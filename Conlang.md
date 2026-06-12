@@ -5,16 +5,16 @@
 ---
 ### 음소
 V : e[ɨ], o[o], u[u], a[ə], i[i]
-C : c, ch, m, n, s, p, t, g, d, h, y
+C : c, ch, m, n, s, p, t, g, d, h, y, r
 ---
 ### 예문
 - a mú san myou ta myou o gan nec.
 - myon chab sá duc ta tyua o gan.
 - i cyoa ta hec o a.
 - a mù gec ta soa non o choc san.
-- hec myou ta ritn, non o gec non.
+- hec myou ta rat, non o gec non.
 - a ta mam, dyua o gec dyua.
-- a mù gec ta han, nec o petn nec.
+- a mù gec ta han, nec o mat nec.
 ---
 ### 어근 |
 
@@ -50,9 +50,9 @@ C : c, ch, m, n, s, p, t, g, d, h, y
 - tup 적응, 진화, 최적화, 효율, 자동, 습관
 - yac 중심, 중앙, 집중, 국소, 핵
 - myon : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
-- tritn 불타다, 뜨거운, 불, 빛나다, 화재, 발화
-- ritn 흐르다, 유동적인, 액체, 물 또는 하고 있다
-- petn 따가운, 전기적인, 전기
+- tat 불타다, 뜨거운, 불, 빛나다, 화재, 발화
+- rat 흐르다, 유동적인, 액체, 물 또는 하고 있다
+- mat 따가운, 전기적인, 전기
 - sá / sà 그리고 / 또는
 - ád / àd 그러나, 하지만 / 또한
 - mú / mù -의 / 부사어
