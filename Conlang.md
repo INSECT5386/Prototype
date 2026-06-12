@@ -9,11 +9,11 @@
 ### 예문
 - va mé riren trun te trun o tan ditun.
 - moc pyot sé chot te ryec o san tan.
-- vi mè reng cocol te troi o va.
-- va mè reng te sem cecren o cang riren.
+- vi mè san cocol te troi o va.
+- va mè san te sem cecren o cang riren.
 - troi trun te ritn, cecren o san cecren.
-- va te tshuc, pac o reng pac.
-- va mè reng te hen, ditun o petn ditun.
+- va te tshuc, pac o san pac.
+- va mè san te hen, ditun o petn ditun.
 ---
 ### 어근
 
