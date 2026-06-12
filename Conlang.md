@@ -5,7 +5,7 @@
 ---
 ### 예문
 - va mé riren trun te trun o tan ditun.
-- moc pyot sé chot te ryec o tshuc tan.
+- moc pyot sé goc te ryec o tshuc tan.
 - vi mè tshuc cocol te troi o va.
 - va mè tshuc te sem cecren o cang riren.
 - troi trun te ritn, cecren o tshuc cecren.
@@ -42,7 +42,7 @@
 - ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - cecren 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chot 시간, 인과, 순서, 직렬, 원인
-- pyot 공간, 차원, 장소, 병렬, 결과
+- goc 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
 - neit 중심, 중앙, 집중, 국소, 핵
 - moc : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
