@@ -8,7 +8,7 @@
 ---
 ### 예문
 - va mé riren trun te trun o tan ditun.
-- cheit pyot és chot te pepin o reng tan.
+- cheit pyot sé chot te pepin o reng tan.
 - vi mè reng cocol te troi o va.
 - va mè reng te sem cecren o cang riren.
 - troi trun te ritn, cecren o reng cecren.
@@ -52,7 +52,7 @@
 - tritn 불타다, 뜨거운, 불, 빛나다, 화재, 발화
 - ritn 흐르다, 유동적인, 액체, 물 또는 하고 있다
 - petn 따가운, 전기적인, 전기
-- és / ès 그리고 / 또는
+- sé / sè 그리고 / 또는
 - ád / àd 그러나, 하지만 / 또한
 - mé / mè -의 / 부사어
 - o 목적어
