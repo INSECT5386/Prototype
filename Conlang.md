@@ -5,20 +5,20 @@
 ---
 ### 음소
 V : e[ɨ], o[o], u[u], a[ə]
-C : kh, c, ch, m, n, s, p, t, g
+C : c, ch, m, n, s, p, t, g
 ---
 ### 예문
 - va mé san sop te sop o gan nec.
 - myocu sytui sé rylut te tyua o gan.
 - vi cyou te nychu o va.
-- va mè khec te sem ryul o choc san.
-- nychu sop te ritn, ryul o khec ryul.
-- va te mam, dyau o khec dyau.
-- va mè khec te hen, nec o petn nec.
+- va mè gec te sem non o choc san.
+- nychu sop te ritn, non o gec non.
+- va te mam, dyau o gec dyau.
+- va mè gec te hen, nec o petn nec.
 ---
 ### 어근 |
 
-- khec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- gec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - choc 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
@@ -44,7 +44,7 @@ C : kh, c, ch, m, n, s, p, t, g
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyau 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tyua 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
-- ryul 기억하다, 저장하다, 보관하다, 정보, 기록, 책
+- non 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - sytui 시간, 인과, 순서, 직렬, 원인
 - rylut 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
