@@ -8,13 +8,13 @@ V : e[ɨ], o[o], u[u], a[ə]
 C : c, ch, m, n, s, p, t, g
 ---
 ### 예문
-- va mé san sop te sop o gan nec.
-- myocu sytui sé rylut te tyua o gan.
-- vi cyou te nychu o va.
-- va mè gec te sem non o choc san.
-- nychu sop te ritn, non o gec non.
-- va te mam, dyau o gec dyau.
-- va mè gec te hen, nec o petn nec.
+- va mú san sop ta sop o gan nec.
+- myocu sytui sé rylut ta tyua o gan.
+- vi cyou ta nychu o va.
+- va mù gec ta sem non o choc san.
+- nychu sop ta ritn, non o gec non.
+- va ta mam, dyau o gec dyau.
+- va mù gec ta hen, nec o petn nec.
 ---
 ### 어근 |
 
@@ -55,7 +55,7 @@ C : c, ch, m, n, s, p, t, g
 - petn 따가운, 전기적인, 전기
 - sé / sè 그리고 / 또는
 - ád / àd 그러나, 하지만 / 또한
-- mé / mè -의 / 부사어
+- mú / mù -의 / 부사어
 - o 목적어
-- te 서술어
+- ta 서술어
 - va / vi 나, 사람 / 나 이외의 모든 것
