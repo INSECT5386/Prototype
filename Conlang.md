@@ -8,13 +8,13 @@ V : e[ɨ], o[o], u[u], a[ə]
 C : kh, c, ch, m, n, s, p, t
 ---
 ### 예문
-- va mé san pyu te pyu o yeu byaul.
+- va mé san pyu te pyu o yeu nec.
 - myocu sytui sé rylut te tyua o yeu.
 - vi cyou te nychu o va.
 - va mè khec te sem ryul o choc san.
 - nychu pyu te ritn, ryul o khec ryul.
 - va te mam, dyau o khec dyau.
-- va mè khec te hen, byaul o petn byaul.
+- va mè khec te hen, nec o petn nec.
 ---
 ### 어근 |
 
@@ -40,7 +40,7 @@ C : kh, c, ch, m, n, s, p, t
 - cyou 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
 - nychu 보다, 알다, 이해하다, 시각, 시력, 눈
-- byaul 배우다, 연구하다, 탐구적인, 학문, 교육
+- nec 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyau 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tyua 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
