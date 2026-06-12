@@ -8,7 +8,7 @@
 ---
 ### 예문
 - va mé riren trun te trun o tan ditun.
-- moc pyot sé chot te pepin o reng tan.
+- moc pyot sé chot te ryec o reng tan.
 - vi mè reng cocol te troi o va.
 - va mè reng te sem cecren o cang riren.
 - troi trun te ritn, cecren o reng cecren.
@@ -42,7 +42,7 @@
 - ditun 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - pac 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
-- pepin 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
+- ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - cecren 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chot 시간, 인과, 순서, 직렬, 원인
 - pyot 공간, 차원, 장소, 병렬, 결과
