@@ -8,16 +8,16 @@
 ---
 ### 예문
 - va mé riren trun te trun o tan ditun.
-- moc pyot sé chot te ryec o san tan.
-- vi mè san cocol te troi o va.
-- va mè san te sem cecren o cang riren.
-- troi trun te ritn, cecren o san cecren.
-- va te tshuc, pac o san pac.
-- va mè san te hen, ditun o petn ditun.
+- moc pyot sé chot te ryec o tshuc tan.
+- vi mè tshuc cocol te troi o va.
+- va mè tshuc te sem cecren o cang riren.
+- troi trun te ritn, cecren o tshuc cecren.
+- va te mam, pac o tshuc pac.
+- va mè tshuc te hen, ditun o petn ditun.
 ---
 ### 어근
 
-- san 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- tshuc 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - cang 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
@@ -28,7 +28,7 @@
 - nex 무언가를 손상, 망침, 해치는 행위
 - rui 무언가가 상승 또는 증가하는 모든 것
 - cui  무언가가 하강 또는 감소하는 모든 것
-- tshuc 무언가의 시작과 초반 또는 과거
+- mam 무언가의 시작과 초반 또는 과거
 - hen  무언가의 끝과 후반 또는 미래
 - nis  무언가를 측정, 분석, 검증하는 모든 행위
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
