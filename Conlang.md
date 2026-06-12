@@ -7,8 +7,8 @@
 - va mé riren trun te trun o sip pil.
 - mon pyot sé goc te ryec o tshuc sip.
 - vi mè tshuc cocol te troi o va.
-- va mè tshuc te sem cecren o cang riren.
-- troi trun te ritn, cecren o tshuc cecren.
+- va mè tshuc te sem gen o cang riren.
+- troi trun te ritn, gen o tshuc gen.
 - va te mam, pac o tshuc pac.
 - va mè tshuc te hen, pil o petn pil.
 ---
@@ -40,7 +40,7 @@
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - pac 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
-- cecren 기억하다, 저장하다, 보관하다, 정보, 기록, 책
+- gen 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chot 시간, 인과, 순서, 직렬, 원인
 - goc 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
