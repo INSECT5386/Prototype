@@ -13,7 +13,7 @@ C : c, ch, m, n, s, p, t, g, d, h, y
 - i cyoa ta hec o a.
 - a mù gec ta soa non o choc san.
 - hec myou ta ritn, non o gec non.
-- a ta mam, dyau o gec dyau.
+- a ta mam, dyua o gec dyua.
 - a mù gec ta han, nec o petn nec.
 ---
 ### 어근 |
@@ -42,7 +42,7 @@ C : c, ch, m, n, s, p, t, g, d, h, y
 - hec 보다, 알다, 이해하다, 시각, 시력, 눈
 - nec 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
-- dyau 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
+- dyua 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tyua 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - non 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - sytui 시간, 인과, 순서, 직렬, 원인
