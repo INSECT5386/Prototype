@@ -6,7 +6,7 @@
 ### 예문
 - va mé mykwe pytwa te pytwa o yew byalw.
 - mon pyot sé goc te ryec o yew.
-- vi cocol te nychw o va.
+- vi cyow te nychw o va.
 - va mè yoppw te sem gen o cang mykwe.
 - nychw pytwa te ritn, gen o yoppw gen.
 - va te mam, dyaw o yoppw dyaw.
@@ -33,7 +33,7 @@
 - pytwa 도구, 기계, 사용하다, 소모하다, 소비하다
 - yew 무언가, 물체, 물건, 물질, 그것, 것
 - mykwe 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
-- cocol 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
+- cyow 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
 - nychw 보다, 알다, 이해하다, 시각, 시력, 눈
 - byalw 배우다, 연구하다, 탐구적인, 학문, 교육
