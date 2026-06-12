@@ -7,7 +7,7 @@
 - va mé mykwe trun te trun o sip byalw.
 - mon pyot sé goc te ryec o sip.
 - vi cocol te troi o va.
-- va mè yoppw te sem gen o cang riren.
+- va mè yoppw te sem gen o cang mykwe.
 - troi trun te ritn, gen o yoppw gen.
 - va te mam, dyaw o yoppw dyaw.
 - va mè yoppw te hen, byalw o petn byalw.
