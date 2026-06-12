@@ -3,9 +3,6 @@
 2. ‘전치수식’을 사용한다.
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
-### 음소
-- V : a, i, u, o, e[ə]
----
 ### 예문
 - va mé riren trun te trun o tan ditun.
 - moc pyot sé chot te ryec o tshuc tan.
