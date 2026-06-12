@@ -6,9 +6,9 @@
 ### 예문
 - va mé mykwe pytwa te pytwa o yew byalw.
 - mon pyot sé goc te ryec o yew.
-- vi cocol te troi o va.
+- vi cocol te nychw o va.
 - va mè yoppw te sem gen o cang mykwe.
-- troi pytwa te ritn, gen o yoppw gen.
+- nychw pytwa te ritn, gen o yoppw gen.
 - va te mam, dyaw o yoppw dyaw.
 - va mè yoppw te hen, byalw o petn byalw.
 ---
@@ -35,7 +35,7 @@
 - mykwe 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cocol 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
-- troi 보다, 알다, 이해하다, 시각, 시력, 눈
+- nychw 보다, 알다, 이해하다, 시각, 시력, 눈
 - byalw 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyaw 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
