@@ -14,7 +14,7 @@ C : c, ch, m, n, s, p, t, g, h
 - a mù gec ta sem non o choc san.
 - nychu sop ta ritn, non o gec non.
 - a ta mam, dyau o gec dyau.
-- a mù gec ta hen, nec o petn nec.
+- a mù gec ta han, nec o petn nec.
 ---
 ### 어근 |
 
@@ -30,7 +30,7 @@ C : c, ch, m, n, s, p, t, g, h
 - rui 무언가가 상승 또는 증가하는 모든 것
 - cui  무언가가 하강 또는 감소하는 모든 것
 - mam 무언가의 시작과 초반 또는 과거
-- hen  무언가의 끝과 후반 또는 미래
+- han  무언가의 끝과 후반 또는 미래
 - sem 할 수 있다
 - nis  무언가를 측정, 분석, 검증하는 모든 행위
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
