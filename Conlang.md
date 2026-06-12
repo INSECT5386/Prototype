@@ -5,11 +5,11 @@
 ---
 ### 예문
 - va mé mykue pyu te pyu o yeu byaul.
-- myocu sytui sé rylut te ryec o yeu.
+- myocu sytui sé rylut te tyua o yeu.
 - vi cyou te nychu o va.
 - va mè eymu te sem ryul o aytu mykue.
 - nychu pyu te ritn, ryul o eymu ryul.
-- va te mam, dyau o yoppu dyau.
+- va te mam, dyau o eymu dyau.
 - va mè eymu te hen, byaul o petn byaul.
 ---
 ### 어근
@@ -39,7 +39,7 @@
 - byaul 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyau 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
-- ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
+- tyua 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - ryul 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - sytui 시간, 인과, 순서, 직렬, 원인
 - rylut 공간, 차원, 장소, 병렬, 결과
