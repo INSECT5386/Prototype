@@ -10,9 +10,9 @@ C : c, ch, m, n, s, p, t, g, h, y
 ### 예문
 - a mú san myou ta myou o gan nec.
 - myocu sytui sé rylut ta tyua o gan.
-- i cyou ta nychu o a.
+- i cyoa ta hec o a.
 - a mù gec ta sem non o choc san.
-- nychu myou ta ritn, non o gec non.
+- hec myou ta ritn, non o gec non.
 - a ta mam, dyau o gec dyau.
 - a mù gec ta han, nec o petn nec.
 ---
@@ -37,9 +37,9 @@ C : c, ch, m, n, s, p, t, g, h, y
 - myou 도구, 기계, 사용하다, 소모하다, 소비하다
 - gan 무언가, 물체, 물건, 물질, 그것, 것
 - san 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
-- cyou 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
+- cyoa 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
-- nychu 보다, 알다, 이해하다, 시각, 시력, 눈
+- hec 보다, 알다, 이해하다, 시각, 시력, 눈
 - nec 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyau 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
