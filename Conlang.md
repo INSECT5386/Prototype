@@ -9,7 +9,7 @@ C : c, ch, m, n, s, p, t, g, d, h, y
 ---
 ### 예문
 - a mú san myou ta myou o gan nec.
-- myocu sytui sé rylut ta tyua o gan.
+- myocu chab sá duc ta tyua o gan.
 - i cyoa ta hec o a.
 - a mù gec ta soa non o choc san.
 - hec myou ta ritn, non o gec non.
@@ -38,22 +38,22 @@ C : c, ch, m, n, s, p, t, g, d, h, y
 - gan 무언가, 물체, 물건, 물질, 그것, 것
 - san 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cyoa 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
-- tetep 냄새, 냄새를 풍기다, 향수
+- pat 냄새, 냄새를 풍기다, 향수
 - hec 보다, 알다, 이해하다, 시각, 시력, 눈
 - nec 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyua 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
-- tyua 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
+- tya 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - non 기억하다, 저장하다, 보관하다, 정보, 기록, 책
-- sytui 시간, 인과, 순서, 직렬, 원인
-- rylut 공간, 차원, 장소, 병렬, 결과
+- chap 시간, 인과, 순서, 직렬, 원인
+- duc 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
 - neit 중심, 중앙, 집중, 국소, 핵
 - myocu : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
 - tritn 불타다, 뜨거운, 불, 빛나다, 화재, 발화
 - ritn 흐르다, 유동적인, 액체, 물 또는 하고 있다
 - petn 따가운, 전기적인, 전기
-- sé / sè 그리고 / 또는
+- sá / sà 그리고 / 또는
 - ád / àd 그러나, 하지만 / 또한
 - mú / mù -의 / 부사어
 - o 목적어
