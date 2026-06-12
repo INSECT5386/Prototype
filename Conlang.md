@@ -5,7 +5,7 @@
 ---
 ### 음소
 V : a[a], e[ə]
-C : c, p, t, h, ch, m, n, y
+C : c, p, t, h, ch, m, n, y, r
 ---
 ### 예문
 - a mú san myou ta myou o gan niec.
