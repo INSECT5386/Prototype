@@ -8,11 +8,11 @@ V : e[ɨ], o[o], u[u], a[ə]
 C : kh, c, ch, m, n, s, p, t, g
 ---
 ### 예문
-- va mé san pyu te pyu o gan nec.
+- va mé san sop te sop o gan nec.
 - myocu sytui sé rylut te tyua o gan.
 - vi cyou te nychu o va.
 - va mè khec te sem ryul o choc san.
-- nychu pyu te ritn, ryul o khec ryul.
+- nychu sop te ritn, ryul o khec ryul.
 - va te mam, dyau o khec dyau.
 - va mè khec te hen, nec o petn nec.
 ---
@@ -34,7 +34,7 @@ C : kh, c, ch, m, n, s, p, t, g
 - sem 할 수 있다
 - nis  무언가를 측정, 분석, 검증하는 모든 행위
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
-- pyu 도구, 기계, 사용하다, 소모하다, 소비하다
+- sop 도구, 기계, 사용하다, 소모하다, 소비하다
 - gan 무언가, 물체, 물건, 물질, 그것, 것
 - san 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cyou 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
