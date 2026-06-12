@@ -7,15 +7,15 @@
 - va mé mykue pytua te pytua o yeu byalu.
 - mon pyot sé goc te ryec o yeu.
 - vi cyou te nychu o va.
-- va mè yoppu te sem gen o cang mykue.
-- nychu pytua te ritn, gen o yoppu gen.
+- va mè eymu te sem gen o aytu mykue.
+- nychu pytua te ritn, gen o eymu gen.
 - va te mam, dyau o yoppu dyau.
-- va mè yoppu te hen, byalu o petn byalu.
+- va mè eymu te hen, byalu o petn byalu.
 ---
 ### 어근
 
-- yoppu 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
-- cang 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
+- eymu 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- aytu 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
 - cicrat 차이, 다른, 반면에 또는 무언가를 조절, 수정, 대체하는 모든 바꾸는 행위
