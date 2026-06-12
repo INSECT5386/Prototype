@@ -8,16 +8,16 @@
 ---
 ### 예문
 - va mé riren trun te trun o tan ditun.
-- moc pyot sé chot te ryec o reng tan.
+- moc pyot sé chot te ryec o san tan.
 - vi mè reng cocol te troi o va.
 - va mè reng te sem cecren o cang riren.
-- troi trun te ritn, cecren o reng cecren.
+- troi trun te ritn, cecren o san cecren.
 - va te tshuc, pac o reng pac.
 - va mè reng te hen, ditun o petn ditun.
 ---
 ### 어근
 
-- reng 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- san 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - cang 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
