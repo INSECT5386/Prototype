@@ -3,6 +3,9 @@
 2. ‘전치수식’을 사용한다.
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
+### 음소
+- V : a, i, u, o, e[e], ye[yə]
+---
 ### 예문
 - va mé riren trun te trun o tan ditun.
 - cheit rachal és nachan te pepin o reng tan.
@@ -10,7 +13,7 @@
 - va mè reng te sem cecren o cang riren.
 - troi trun te ritn, cecren o reng cecren.
 - va te tshuc, pac o reng pac.
-- va mè reng te quo, ditun o petn ditun.
+- va mè reng te hyen, ditun o petn ditun.
 ---
 ### 어근
 
@@ -26,7 +29,7 @@
 - rui 무언가가 상승 또는 증가하는 모든 것
 - cui  무언가가 하강 또는 감소하는 모든 것
 - tshuc 무언가의 시작과 초반 또는 과거
-- quo  무언가의 끝과 후반 또는 미래
+- hyen  무언가의 끝과 후반 또는 미래
 - nis  무언가를 측정, 분석, 검증하는 모든 행위
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
 - sem 할 수 있다
