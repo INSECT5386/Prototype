@@ -8,13 +8,13 @@ V : a[a], e[ə]
 C : k, q, p, t, m, n, d, w, y, r
 ---
 ### 예문
-- a mú san myou ta myou o gan niec.
+- a mú san myou ta myou o gan appen.
 - myon chap sá duc ta tyua o gan.
 - i cyoa ta hec o a.
 - a mù giec ta soa non o choc san.
 - hiec myou ta rat, non o giec non.
-- a ta mam, dyua o giec dyua.
-- a mù giec ta han, nec o mat niec.
+- a ta mam, dyae o giec dyae.
+- a mù giec ta han, nec o mat appen.
 ---
 ### 어근 |
 
@@ -40,9 +40,9 @@ C : k, q, p, t, m, n, d, w, y, r
 - cyoa 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - pat 냄새, 냄새를 풍기다, 향수
 - hiec 보다, 알다, 이해하다, 시각, 시력, 눈
-- appe 배우다, 연구하다, 탐구적인, 학문, 교육
+- appen 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
-- dyua 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
+- dyae 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tya 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - non 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chap 시간, 인과, 순서, 직렬, 원인
