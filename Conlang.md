@@ -8,10 +8,10 @@ V : e[ɨ], o[o], u[u], a[ə]
 C : kh, c, ch, m, n, s, p, t
 ---
 ### 예문
-- va mé mykue pyu te pyu o yeu byaul.
+- va mé sac pyu te pyu o yeu byaul.
 - myocu sytui sé rylut te tyua o yeu.
 - vi cyou te nychu o va.
-- va mè khec te sem ryul o chon mykue.
+- va mè khec te sem ryul o chon sac.
 - nychu pyu te ritn, ryul o khec ryul.
 - va te mam, dyau o khec dyau.
 - va mè khec te hen, byaul o petn byaul.
@@ -36,7 +36,7 @@ C : kh, c, ch, m, n, s, p, t
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
 - pyu 도구, 기계, 사용하다, 소모하다, 소비하다
 - yeu 무언가, 물체, 물건, 물질, 그것, 것
-- mykue 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
+- sac 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cyou 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
 - nychu 보다, 알다, 이해하다, 시각, 시력, 눈
