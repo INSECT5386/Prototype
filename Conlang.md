@@ -4,11 +4,11 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 예문
-- va mé mykwe trun te trun o yew byalw.
+- va mé mykwe pytwa te pytwa o yew byalw.
 - mon pyot sé goc te ryec o yew.
 - vi cocol te troi o va.
 - va mè yoppw te sem gen o cang mykwe.
-- troi trun te ritn, gen o yoppw gen.
+- troi pytwa te ritn, gen o yoppw gen.
 - va te mam, dyaw o yoppw dyaw.
 - va mè yoppw te hen, byalw o petn byalw.
 ---
@@ -30,7 +30,7 @@
 - nis  무언가를 측정, 분석, 검증하는 모든 행위
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
 - sem 할 수 있다
-- trun 도구, 기계, 사용하다, 소모하다, 소비하다
+- pytwa 도구, 기계, 사용하다, 소모하다, 소비하다
 - yew 무언가, 물체, 물건, 물질, 그것, 것
 - mykwe 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cocol 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
