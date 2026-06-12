@@ -4,13 +4,13 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 예문
-- va mé riren trun te trun o sip ditun.
+- va mé riren trun te trun o sip pil.
 - mon pyot sé goc te ryec o tshuc sip.
 - vi mè tshuc cocol te troi o va.
 - va mè tshuc te sem cecren o cang riren.
 - troi trun te ritn, cecren o tshuc cecren.
 - va te mam, pac o tshuc pac.
-- va mè tshuc te hen, ditun o petn ditun.
+- va mè tshuc te hen, pil o petn pil.
 ---
 ### 어근
 
@@ -36,7 +36,7 @@
 - cocol 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
 - troi 보다, 알다, 이해하다, 시각, 시력, 눈
-- ditun 배우다, 연구하다, 탐구적인, 학문, 교육
+- pil 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - pac 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
