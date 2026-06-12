@@ -4,8 +4,8 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 예문
-- va mé riren trun te trun o duc ditun.
-- moc pyot sé goc te ryec o tshuc duc.
+- va mé riren trun te trun o sip ditun.
+- mon pyot sé goc te ryec o tshuc sip.
 - vi mè tshuc cocol te troi o va.
 - va mè tshuc te sem cecren o cang riren.
 - troi trun te ritn, cecren o tshuc cecren.
@@ -31,7 +31,7 @@
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
 - sem 할 수 있다
 - trun 도구, 기계, 사용하다, 소모하다, 소비하다
-- duc 무언가, 물체, 물건, 물질, 그것, 것
+- sip 무언가, 물체, 물건, 물질, 그것, 것
 - riren 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cocol 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
@@ -45,7 +45,7 @@
 - goc 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
 - neit 중심, 중앙, 집중, 국소, 핵
-- moc : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
+- mon : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
 - tritn 불타다, 뜨거운, 불, 빛나다, 화재, 발화
 - ritn 흐르다, 유동적인, 액체, 물 또는 하고 있다
 - petn 따가운, 전기적인, 전기
