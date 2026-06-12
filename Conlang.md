@@ -9,7 +9,7 @@
 - vi mè reng cocol te troi o va.
 - va mè reng te sem cecren o cang riren.
 - troi trun te ritn, cecren o reng cecren.
-- va te tshuc, pic o reng pic.
+- va te tshuc, khin o reng khin.
 - va mè reng te quo, ditun o petn ditun.
 ---
 ### 어근
@@ -38,7 +38,7 @@
 - troi 보다, 알다, 이해하다, 시각, 시력, 눈
 - ditun 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
-- pic 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
+- chin 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - pepin 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - cecren 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - nachan 시간, 인과, 순서, 직렬, 원인
