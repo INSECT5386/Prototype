@@ -8,11 +8,11 @@ V : a[a], e[ə]
 C : k, q, p, t, m, n, d, w, y, r
 ---
 ### 예문
-- a mú san myou ta myou o gan appen.
+- a mú san kaen ta kaen o gan appen.
 - myon chap sá duc ta tyua o gan.
 - i cyoa ta hec o a.
 - a mù giec ta soa non o choc san.
-- hiec myou ta rat, non o giec non.
+- hiec kaen ta rat, non o giec non.
 - a ta mam, dyae o giec dyae.
 - a mù giec ta han, nec o mat appen.
 ---
@@ -34,7 +34,7 @@ C : k, q, p, t, m, n, d, w, y, r
 - soa 할 수 있다
 - nip  무언가를 측정, 분석, 검증하는 모든 행위
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
-- myou 도구, 기계, 사용하다, 소모하다, 소비하다
+- kaen 도구, 기계, 사용하다, 소모하다, 소비하다
 - gan 무언가, 물체, 물건, 물질, 그것, 것
 - san 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cyoa 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
