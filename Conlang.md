@@ -4,17 +4,17 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 예문
-- va mé mykwe pytwa te pytwa o yew byalw.
-- mon pyot sé goc te ryec o yew.
-- vi cyow te nychw o va.
-- va mè yoppw te sem gen o cang mykwe.
-- nychw pytwa te ritn, gen o yoppw gen.
-- va te mam, dyaw o yoppw dyaw.
-- va mè yoppw te hen, byalw o petn byalw.
+- va mé mykue pytua te pytua o yeu byalu.
+- mon pyot sé goc te ryec o yeu.
+- vi cyou te nychu o va.
+- va mè yoppu te sem gen o cang mykue.
+- nychw pytua te ritn, gen o yoppu gen.
+- va te mam, dyau o yoppu dyau.
+- va mè yoppu te hen, byalu o petn byalu.
 ---
 ### 어근
 
-- yoppw 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- yoppu 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - cang 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
@@ -30,15 +30,15 @@
 - nis  무언가를 측정, 분석, 검증하는 모든 행위
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
 - sem 할 수 있다
-- pytwa 도구, 기계, 사용하다, 소모하다, 소비하다
-- yew 무언가, 물체, 물건, 물질, 그것, 것
-- mykwe 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
-- cyow 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
+- pytua 도구, 기계, 사용하다, 소모하다, 소비하다
+- yeu 무언가, 물체, 물건, 물질, 그것, 것
+- mykue 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
+- cyou 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
-- nychw 보다, 알다, 이해하다, 시각, 시력, 눈
-- byalw 배우다, 연구하다, 탐구적인, 학문, 교육
+- nychu 보다, 알다, 이해하다, 시각, 시력, 눈
+- byalu 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
-- dyaw 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
+- dyau 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - gen 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chot 시간, 인과, 순서, 직렬, 원인
