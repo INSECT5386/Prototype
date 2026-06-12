@@ -8,10 +8,10 @@ V : e[ɨ], o[o], u[u], a[ə]
 C : kh, c, ch, m, n, s, p, t
 ---
 ### 예문
-- va mé sac pyu te pyu o yeu byaul.
+- va mé san pyu te pyu o yeu byaul.
 - myocu sytui sé rylut te tyua o yeu.
 - vi cyou te nychu o va.
-- va mè khec te sem ryul o chon sac.
+- va mè khec te sem ryul o choc san.
 - nychu pyu te ritn, ryul o khec ryul.
 - va te mam, dyau o khec dyau.
 - va mè khec te hen, byaul o petn byaul.
@@ -19,7 +19,7 @@ C : kh, c, ch, m, n, s, p, t
 ### 어근 |
 
 - khec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
-- chon 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
+- choc 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
 - cicrat 차이, 다른, 반면에 또는 무언가를 조절, 수정, 대체하는 모든 바꾸는 행위
@@ -36,7 +36,7 @@ C : kh, c, ch, m, n, s, p, t
 - rin 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
 - pyu 도구, 기계, 사용하다, 소모하다, 소비하다
 - yeu 무언가, 물체, 물건, 물질, 그것, 것
-- sac 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
+- san 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cyou 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - tetep 냄새, 냄새를 풍기다, 향수
 - nychu 보다, 알다, 이해하다, 시각, 시력, 눈
