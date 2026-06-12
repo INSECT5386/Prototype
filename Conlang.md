@@ -7,8 +7,8 @@
 - va mé mykue pyu te pyu o yeu byalu.
 - myocu sytui sé rylut te ryec o yeu.
 - vi cyou te nychu o va.
-- va mè eymu te sem gen o aytu mykue.
-- nychu pyu te ritn, gen o eymu gen.
+- va mè eymu te sem ryul o aytu mykue.
+- nychu pyu te ritn, ryul o eymu ryul.
 - va te mam, dyau o yoppu dyau.
 - va mè eymu te hen, byalu o petn byalu.
 ---
@@ -40,7 +40,7 @@
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyau 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - ryec 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
-- gen 기억하다, 저장하다, 보관하다, 정보, 기록, 책
+- ryul 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - sytui 시간, 인과, 순서, 직렬, 원인
 - rylut 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
