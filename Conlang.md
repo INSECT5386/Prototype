@@ -8,7 +8,7 @@
 ---
 ### 예문
 - va mé riren trun te trun o tan ditun.
-- cheit pyot sé chot te pepin o reng tan.
+- moc pyot sé chot te pepin o reng tan.
 - vi mè reng cocol te troi o va.
 - va mè reng te sem cecren o cang riren.
 - troi trun te ritn, cecren o reng cecren.
@@ -48,7 +48,7 @@
 - pyot 공간, 차원, 장소, 병렬, 결과
 - ties 적응, 진화, 최적화, 효율, 자동, 습관
 - neit 중심, 중앙, 집중, 국소, 핵
-- cheit : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
+- moc : 외각, 분산, 전역, 지구, 세계, 우주, 모두, 모든
 - tritn 불타다, 뜨거운, 불, 빛나다, 화재, 발화
 - ritn 흐르다, 유동적인, 액체, 물 또는 하고 있다
 - petn 따가운, 전기적인, 전기
