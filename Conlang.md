@@ -8,7 +8,7 @@
 - mon pyot sé goc te ryec o yeu.
 - vi cyou te nychu o va.
 - va mè yoppu te sem gen o cang mykue.
-- nychw pytua te ritn, gen o yoppu gen.
+- nychu pytua te ritn, gen o yoppu gen.
 - va te mam, dyau o yoppu dyau.
 - va mè yoppu te hen, byalu o petn byalu.
 ---
