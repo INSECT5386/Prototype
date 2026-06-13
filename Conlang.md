@@ -8,12 +8,12 @@ V : a[a], e[ə]
 C : k, q, p, t, m, n, d, w, y, r
 ---
 ### 예문
-- a mú maqe kaen ta kaen o tet appen.
-- myon chap sá duc ta tyua o tet.
-- i cyoa ta hec o a.
-- a mù giec ta soa non o choc maqe.
-- hiec kaen ta rat, non o giec non.
-- a ta mam, dyae o giec dyae.
+- a mú maqe kaen ta kaen y tet appen.
+- myon chap sá duc ta tyua y tet.
+- i cyoa ta hec y a.
+- a mù giec ta soa non y choc maqe.
+- hiec kaen ta rat, non y giec non.
+- a ta mam, dyae y giec dyae.
 ---
 ### 어근 |
 
@@ -55,6 +55,6 @@ C : k, q, p, t, m, n, d, w, y, r
 - sá / sà 그리고 / 또는
 - ád / àd 그러나, 하지만 / 또한
 - mú / mù -의 / 부사어
-- o 목적어
+- y 목적어
 - ta 서술어
 - a / i 나, 사람 / 나 이외의 모든 것
