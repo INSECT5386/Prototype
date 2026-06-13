@@ -4,7 +4,7 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 예문
-* **a mé sling ci na mè reng tu mam seci o tring yung na. :** 나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들을
+* **a mé sling ci na mè reng tu mam se ci o tring yung na. :** 나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들을
 ---
 ### 어근 
 - mam 무언가의 시작과 초반 또는 과거
