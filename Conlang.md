@@ -4,7 +4,7 @@
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
 ### 음소
-- C : x[ks], pp, bt, th, n, m, cc, r, y
+- C : x[ks], ch[tsh], pp, bt, th, n, m, cc, r, y
 - V : a, e, i, u, o
 ---
 ### 어근 
