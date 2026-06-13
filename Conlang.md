@@ -4,7 +4,7 @@
 ---
 ### 예문
 - a mé anata aata tu aata y iata aista.
-- a mè inata tu soa naksam y oputa anata.
+- a mè inata tu soa nasata y oputa anata.
 - a tu mam, dakim y inata dakim.
 ---
 ### 어근 
