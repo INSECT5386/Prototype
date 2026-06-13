@@ -4,9 +4,7 @@
 ---
 ### 예문
 - a mé kanma kama ta kama y tet akism.
-- myon chap sá duc ta tyua y tet.
 - a mè kitma ta soa naksam y kopma kanma.
-- hiec kama ta rat, naksam y kitma naksam.
 - a ta mam, dakim y kitma dakim.
 ---
 ### 어근 
