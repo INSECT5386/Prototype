@@ -3,8 +3,8 @@
 2. ‘전치수식’을 사용한다.
 ---
 ### 예문
-- a mé kanma kama ta kama y kim akism.
-- a mè kitma ta soa naksam y kopma kanma.
+- a mé anata aata ta aata y kim akism.
+- a mè kitma ta soa naksam y kopma anata.
 - a ta mam, dakim y kitma dakim.
 ---
 ### 어근 
