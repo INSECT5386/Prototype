@@ -3,7 +3,7 @@
 2. ‘전치수식’을 사용한다.
 ---
 ### 예문
-- a mé anata aata tu aata y kim akism.
+- a mé anata aata tu aata y iata aista.
 - a mè inata tu soa naksam y oputa anata.
 - a tu mam, dakim y inata dakim.
 ---
