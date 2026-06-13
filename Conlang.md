@@ -10,14 +10,13 @@ C : k, q, p, t, m, n, d, w, y, r
 ### 예문
 - a mú maqe kaen ta kaen y tet appen.
 - myon chap sá duc ta tyua y tet.
-- i cyoa ta hec y a.
-- a mù giec ta soa naten y choc maqe.
-- hiec kaen ta rat, naten y giec naten.
-- a ta mam, dyae y giec dyae.
+- a mù pan ta soa naten y choc maqe.
+- hiec kaen ta rat, naten y pan naten.
+- a ta mam, dyae y pan dyae.
 ---
 ### 어근 |
 
-- giec 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
+- pan 인간의 기준에서 좋다 느끼고 윤리, 도덕적인 모든 상태 또는 어떤 것이 다른 것보다 뛰어나거나 안정한 지점에있는 모든 상태 또는 감정
 - choc 인간의 기준에서 나쁘다 느끼고, 윤리, 도덕적이지 못한 모든 상태 또는 어떤 것이 다른 것보다 못하거나 불안정한 지점에 있는 모든 상태 또는 감정
 - rid 사회적 또는 물리적으로 다른 것보다 더 뛰어난 크기와 높이
 - cid 사회적 또는 물리적으로 다른 것보다 더 뛰어나지 못한 크기와 높이
@@ -37,7 +36,7 @@ C : k, q, p, t, m, n, d, w, y, r
 - tet 무언가, 물체, 물건, 물질, 그것, 것
 - maqe 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - cyoa 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
-- pat 냄새, 냄새를 풍기다, 향수
+- dan 냄새, 냄새를 풍기다, 향수
 - hiec 보다, 알다, 이해하다, 시각, 시력, 눈
 - appen 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
