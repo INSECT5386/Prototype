@@ -6,9 +6,21 @@
 ### 예문
 * **a mé slingcina mè rex tu mam seci o tring aplungna. :** 나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들을
 ---
+### 수사
+* suld : 0
+* ul : 1
+* qod : 2
+* mud : 3
+* sud : 4
+* al : 5
+* rad : 6
+* ted : 7
+* pod : 8
+* el : 9
+* buld : 10
 ### 어근 
 - mam 무언가의 시작과 초반 또는 과거
-- han  무언가의 끝과 후반 또는 미래
+- pan  무언가의 끝과 후반 또는 미래
 - soa 할 수 있다
 - sá / sà 그리고 / 또는
 - ád / àd 그러나, 하지만 / 또한
