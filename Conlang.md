@@ -5,7 +5,7 @@
 ### 예문
 - a mé anata aata tu aata y iata aista.
 - a mè inata tu soa nasata y oputa anata.
-- a tu mam, dakim y inata dakim.
+- a tu mam, daita y inata daita.
 ---
 ### 어근 
 - ta 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우주 그 자체를 상징한다.
