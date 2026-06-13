@@ -11,8 +11,8 @@ C : k, q, p, t, m, n, d, w, y, r
 - a mú maqe kaen ta kaen y tet appen.
 - myon chap sá duc ta tyua y tet.
 - i cyoa ta hec y a.
-- a mù giec ta soa non y choc maqe.
-- hiec kaen ta rat, non y giec non.
+- a mù giec ta soa naten y choc maqe.
+- hiec kaen ta rat, naten y giec naten.
 - a ta mam, dyae y giec dyae.
 ---
 ### 어근 |
@@ -43,7 +43,7 @@ C : k, q, p, t, m, n, d, w, y, r
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyae 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tya 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
-- non 기억하다, 저장하다, 보관하다, 정보, 기록, 책
+- naten 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chap 시간, 인과, 순서, 직렬, 원인
 - duc 공간, 차원, 장소, 병렬, 결과
 - tup 적응, 진화, 최적화, 효율, 자동, 습관
