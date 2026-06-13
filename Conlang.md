@@ -14,7 +14,6 @@ C : k, q, p, t, m, n, d, w, y, r
 - a mù giec ta soa non o choc maqe.
 - hiec kaen ta rat, non o giec non.
 - a ta mam, dyae o giec dyae.
-- a mù giec ta han, nec o mat appen.
 ---
 ### 어근 |
 
