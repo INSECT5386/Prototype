@@ -2,12 +2,8 @@
 1. 모든 복합어는 구(phrase) 형태이다.
 2. ‘전치수식’을 사용한다.
 ---
-### 음소
-V : a[a], e[ə]
-C : k, q, p, t, m, n, d, w, y, r
----
 ### 예문
-- a mé kanma kaen ta kaen y tet appen.
+- a mé kanma kaen ta kaen y tet akism.
 - myon chap sá duc ta tyua y tet.
 - a mè kitma ta soa naten y kopma kanma.
 - hiec kaen ta rat, naten y kitma naten.
@@ -39,7 +35,7 @@ k-m(어근) : 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우
 - cyoa 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - dan 냄새, 냄새를 풍기다, 향수
 - hiec 보다, 알다, 이해하다, 시각, 시력, 눈
-- appen 배우다, 연구하다, 탐구적인, 학문, 교육
+- (a-is-) 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - dyae 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tya 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
