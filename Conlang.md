@@ -4,8 +4,8 @@
 ---
 ### 예문
 - a mé anata aata ta aata y kim akism.
-- a mè kitma ta soa naksam y kopma anata.
-- a ta mam, dakim y kitma dakim.
+- a mè inata ta soa naksam y oputa anata.
+- a ta mam, dakim y inata dakim.
 ---
 ### 어근 
 - ta 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우주 그 자체를 상징한다.
