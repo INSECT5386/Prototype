@@ -8,9 +8,9 @@ V : a[a], e[ə]
 C : k, q, p, t, m, n, d, w, y, r
 ---
 ### 예문
-- a mú maqe kaen ta kaen y tet appen.
+- a mé maqe kaen ta kaen y tet appen.
 - myon chap sá duc ta tyua y tet.
-- a mù pan ta soa naten y choc maqe.
+- a mè pan ta soa naten y choc maqe.
 - hiec kaen ta rat, naten y pan naten.
 - a ta mam, dyae y pan dyae.
 ---
@@ -53,7 +53,7 @@ C : k, q, p, t, m, n, d, w, y, r
 - mat 따가운, 전기적인, 전기
 - sá / sà 그리고 / 또는
 - ád / àd 그러나, 하지만 / 또한
-- mú / mù -의 / 부사어
+- mé / mè -의 / 부사어
 - y 목적어
 - ta 서술어
 - a / i 나, 사람 / 나 이외의 모든 것
