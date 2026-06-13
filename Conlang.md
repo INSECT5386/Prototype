@@ -4,20 +4,20 @@
 ---
 ### 예문
 * **a mé slingcina mè rex tu mam seci o tring aplungna. :** 나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들
-* **a tu crangci o wad mé elangciyu. :** 나는 집중한다 2개의 학문적인 행동을 하는 사람에
+* **a tu crangci o dyaw mé elangciyu. :** 나는 집중한다 2개의 학문적인 행동을 하는 사람에
 ---
 ### 수사
-* suld : 0
-* ul : 1
-* wad : 2
-* mud : 3
-* sud : 4
-* al : 5
-* rad : 6
-* ted : 7
-* pod : 8
-* el : 9
-* buld : 10
+* reta : 0
+* ar : 1
+* dyaw : 2
+* myor : 3
+* crom : 4
+* spat : 5
+* nust : 6
+* tles : 7
+* pold : 8
+* cele : 9
+* bur : 10
 ### 어근 
 - mam 무언가의 시작과 초반 또는 과거
 - pan  무언가의 끝과 후반 또는 미래
