@@ -3,11 +3,6 @@
 2. ‘전치수식’을 사용한다.
 3. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하거나 접사가 붙지 않는다.
 ---
-### 예문
-- a mé ana aa tu aa y ia ais.
-- a mè ina tu soa nasa y opu ana.
-- a tu mam, dai y ina dai.
----
 ### 어근 
 
 - mam 무언가의 시작과 초반 또는 과거
