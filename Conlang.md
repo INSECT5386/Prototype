@@ -3,7 +3,7 @@
 2. ‘전치수식’을 사용한다.
 ---
 ### 예문
-a mé slingcina mè reng tu mam seci o tring yungna. (나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들을)
+* **a mé slingcina mè reng tu mam seci o tring yungna.**: 나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들을
 ---
 ### 어근 
 - mam 무언가의 시작과 초반 또는 과거
