@@ -7,11 +7,11 @@ V : a[a], e[ə]
 C : k, q, p, t, m, n, d, w, y, r
 ---
 ### 예문
-- a mé maqe kaen ta kaen y tet appen.
+- a mé kanma kaen ta kaen y tet appen.
 - myon chap sá duc ta tyua y tet.
-- a mè pan ta soa naten y choc maqe.
-- hiec kaen ta rat, naten y pan naten.
-- a ta mam, dyae y pan dyae.
+- a mè kitma ta soa naten y kopma kanma.
+- hiec kaen ta rat, naten y kitma naten.
+- a ta mam, dyae y kitma dyae.
 ---
 ### 어근 
 k-m(어근) : 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우주와 신 그 자체를 상징한다.
