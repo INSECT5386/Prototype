@@ -3,9 +3,9 @@
 2. ‘전치수식’을 사용한다.
 ---
 ### 예문
-- a mé anata aata ta aata y kim akism.
-- a mè inata ta soa naksam y oputa anata.
-- a ta mam, dakim y inata dakim.
+- a mé anata aata tu aata y kim akism.
+- a mè inata tu soa naksam y oputa anata.
+- a tu mam, dakim y inata dakim.
 ---
 ### 어근 
 - ta 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우주 그 자체를 상징한다.
@@ -17,7 +17,7 @@
 - ád / àd 그러나, 하지만 / 또한
 - mé / mè -의 / 부사어
 - y 목적어
-- ta 서술어
+- tu 서술어
 - a / i 나, 사람 / 나 이외의 모든 것
 ---
 ### 접사
