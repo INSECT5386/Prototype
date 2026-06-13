@@ -7,7 +7,7 @@
 - myon chap sá duc ta tyua y tet.
 - a mè kitma ta soa naten y kopma kanma.
 - hiec kaen ta rat, naten y kitma naten.
-- a ta mam, dyae y kitma dyae.
+- a ta mam, dakim y kitma dakim.
 ---
 ### 어근 
 k-m(어근) : 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우주와 신 그 자체를 상징한다.
@@ -37,7 +37,7 @@ k-m(어근) : 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우
 - hiec 보다, 알다, 이해하다, 시각, 시력, 눈
 - (a-is-) 배우다, 연구하다, 탐구적인, 학문, 교육
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
-- dyae 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
+- (da-i-) 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tya 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
 - naten 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chap 시간, 인과, 순서, 직렬, 원인
