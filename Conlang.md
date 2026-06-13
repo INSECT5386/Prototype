@@ -5,8 +5,8 @@
 ### 예문
 - a mé kanma kaen ta kaen y tet akism.
 - myon chap sá duc ta tyua y tet.
-- a mè kitma ta soa naten y kopma kanma.
-- hiec kaen ta rat, naten y kitma naten.
+- a mè kitma ta soa naksam y kopma kanma.
+- hiec kaen ta rat, naksam y kitma naksam.
 - a ta mam, dakim y kitma dakim.
 ---
 ### 어근 
@@ -39,7 +39,7 @@ k-m(어근) : 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우
 - tic 이동하다, 가다, 걷다, 달리다, 움직이다, 다리, 발
 - (da-i-) 먹다, 식사하다, 마시다, 삼키다, 음식, 칼로리
 - tya 작용하다, 결합하다, 연결된, 융합된, 섞인, 링크
-- naten 기억하다, 저장하다, 보관하다, 정보, 기록, 책
+- (na-sa-) 기억하다, 저장하다, 보관하다, 정보, 기록, 책
 - chap 시간, 인과, 순서, 직렬, 원인
 - duc 공간, 차원, 장소, 병렬, 결과
 - tup 적응, 진화, 최적화, 효율, 자동, 습관
