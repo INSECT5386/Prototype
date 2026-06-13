@@ -3,7 +3,7 @@
 2. ‘전치수식’을 사용한다.
 ---
 ### 예문
-- a mé kanma kama ta kama y tet akism.
+- a mé kanma kama ta kama y kim akism.
 - a mè kitma ta soa naksam y kopma kanma.
 - a ta mam, dakim y kitma dakim.
 ---
@@ -35,7 +35,7 @@ k-m(어근) : 세상의 모든 현상, 행위, 실체, 상태, 법칙이며, 우
 - (ni-us-a)  무언가를 측정, 분석, 검증하는 모든 행위
 - (ri-a-u) 정신과 영혼, 주관적이고 심리적인 상태 또는 무언가를 느끼는 모든 행위
 - (-a-a) 도구, 기계, 사용하다, 소모하다, 소비하다
-- tet 무언가, 물체, 물건, 물질, 그것, 것
+- (-i-) 무언가, 물체, 물건, 물질, 그것, 것
 - (-an-a) 생각하다, 추론하다, 계산하다, 논리적인, 설득력 있는, 머리
 - (cyo-o-) 소리, 노래, 말, 소리내다, 말하다, 가르치다, 공유하다
 - (ol-a-) 냄새, 냄새를 풍기다, 향수
