@@ -3,9 +3,9 @@
 2. ‘전치수식’을 사용한다.
 ---
 ### 예문
-- a mé anata aata tu aata y iata aista.
-- a mè inata tu soa nasata y oputa anata.
-- a tu mam, daita y inata daita.
+- a mé anaca aama tu aata y iaca aisma.
+- a mè inaca tu soa nasata y opuca anama.
+- a tu mam, daita y inaca daima.
 ---
 ### 어근 
 - ta 세상의 모든 행위와 현상이다.
