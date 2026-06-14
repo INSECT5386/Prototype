@@ -4,13 +4,13 @@
 3. 모든 복합어는 '구(phrase)' 형태이다.
 ---
 ### 예문
-* **dyaw mé taroc yu tu naxan o a. :** 2명의 학문적인 사람에 집중하는 나
+* **dau mé taroc yu tu naxan o a. :** 2명의 학문적인 사람에 집중하는 나
 * **ragac roc tu mam muroc o caroc xon man. :** 서로 상호작용 하는 정보적인 것들을 분석했던 논리적 단계 이동 도구
 ---
 ### 수사
 * reta : 0
 * ar : 1
-* dyaw : 2
+* dau : 2
 * myor : 3
 * crom : 4
 * spat : 5
