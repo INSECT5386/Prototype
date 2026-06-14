@@ -5,7 +5,7 @@
 ---
 ### 예문
 * **dyaw mé thuc yu tu dum o a. :** 2명의 학문적인 사람에 집중하는 나
-* **syun doc mè ryem tu mam se o non son nic. :** 서로 상호작용 하는 정보적인 것들을 좋게 분석했던 논리적 단계 이동 도구
+* **syun doc mè roin tu mam se o non son nic. :** 서로 상호작용 하는 정보적인 것들을 좋게 분석했던 논리적 단계 이동 도구
 ---
 ### 수사
 * reta : 0
