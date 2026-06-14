@@ -3,7 +3,7 @@
 2. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하지 않지만, 다른 어근과 결합할 수 있다..
 ---
 ### 예문
-* **a mé comcina mè rex tu mam seci o ben danna. :** 나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들
+* **a mé comcina mè rum tu mam seci o ben danna. :** 나의 추론 행동 물체는 이롭게 분석했다 서로 상호작용하는 정보적인 것들
 * **a tu menci o dyaw mé temciyu. :** 나는 집중한다 2개의 학문적인 행동을 하는 사람에
 ---
 ### 수사
