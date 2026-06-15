@@ -3,7 +3,7 @@
 3. 모든 복합어는 '구(phrase)' 형태이다.
 ---
 * **dau mé sasa nare tu nanu o a. :** 2명의 학문적인 사람에 집중하는 나
-* **ragac ron tu mam muron o caron xon man. :** 서로 상호작용 하는 정보적인 것들을 분석했던 논리적 단계 이동 도구
+* **dusi gul tu mam hezo o garam dari seci. :** 서로 상호작용 하는 정보적인 것들을 분석했던 논리적 단계 이동 도구
 ---
 * reta : 0
 * ar : 1
