@@ -2,20 +2,8 @@
 2. 모든 어근은 그 어떠한 이유나 경우에도 형태가 변하지 않고, 접사 또는 다른 어근과 결합할 수 없다.
 3. 모든 복합어는 '구(phrase)' 형태이다.
 ---
-* **dau mé sasa nare tu nanu o a. :** 2명의 학문적인 사람에 집중하는 나
 * **dusi gul tu mam hezo o garam dari seci. :** 서로 상호작용 하는 정보적인 것들을 분석했던 논리적 단계 이동 도구
 ---
-* reta : 0
-* ar : 1
-* dau : 2
-* myor : 3
-* crom : 4
-* spat : 5
-* nust : 6
-* tles : 7
-* pold : 8
-* cele : 9
-* bur : 10
 - mam 무언가의 시작과 초반 또는 과거
 - pan  무언가의 끝과 후반 또는 미래
 - soa 할 수 있다
