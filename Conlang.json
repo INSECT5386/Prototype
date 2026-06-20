@@ -1,6 +1,6 @@
 {
   "예문": {
-    "mi e rept mu la clat zi mint, pun, ne e cent mu gi": ""
+    "mi e poi rept mu zi regn on mint, pun, zi ne hepl e coi cent mu gi": "내가 규칙의 기록에 대해 배웠기 때문에 체포자가 너를 가둘 것이다.", 
   },
   "어근": {
     "dunt": "사용하다/소모하다, 고용/노동 시킴, 도구/기계/장비/소모품",
@@ -50,6 +50,9 @@
   },
   "문법 요소": {
     "e": "서술어",
+    "poi": "과거 시제",
+    "toi": "현재 시제",
+    "coi": "미래 시제",
     "la": "수식형",
     "zi": "명사화",
     "mu": "목적어, -라는 것을",
