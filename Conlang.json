@@ -61,7 +61,7 @@
       "tuizi": "혼잣말, 자습, 독학",
       "tui on xi": "학교, 토론장",
       "tui on ne": "선생님, 스승",
-      "tui on pepui": "학습 도구"
+      "tui on stepe": "학습 도구"
     },
     "ner": {
       "nerce": "치료, 인정",
@@ -69,10 +69,10 @@
       "nerza": "습관, 성격",
       "nerce on xi": "병원",
       "nerce on ne": "의사, 간호사",
-      "nerce on pepui": "의료 도구",
+      "nerce on stepe": "의료 도구",
       "nerpe on xi": "공방, 공장, 수리소",
       "nerpe on ne": "제작자, 수리공",
-      "nerpe on pepui": "제작 도구, 수리 도구"
+      "nerpe on stepe": "제작 도구, 수리 도구"
     },
     "bor": {
       "borce": "살인, 폭행, 전쟁",
@@ -80,10 +80,10 @@
       "borza": "자해",
       "borce on xi": "살인 현장, 전쟁터",
       "borce on ne": "살인자, 군인",
-      "borce on pepui": "살인 도구, 무기",
+      "borce on stepe": "살인 도구, 무기",
       "borpe on xi": "폐허, 철거된 곳, 도축업소",
       "borpe on ne": "파괴자, 철거자, 도축업자",
-      "borpe on pepui": "철거 도구, 파괴 도구"
+      "borpe on stepe": "철거 도구, 파괴 도구"
     },
     "cie": {
       "cecie": "인문학, 심리학, 사회학",
