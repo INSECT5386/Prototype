@@ -61,7 +61,7 @@
       "tuizi": "혼잣말, 자습, 독학",
       "xitui": "학교, 토론장",
       "netui": "선생님, 스승",
-      "atui": "학습 도구"
+      "tui on puipe": "학습 도구"
     },
     "cen": {
       "cenci": "치료, 인정",
@@ -69,10 +69,10 @@
       "cenzi": "습관, 성격",
       "xicenci": "병원",
       "necenci": "의사, 간호사",
-      "acenci": "의료 도구",
+      "cenci on puipe": "의료 도구",
       "xicenpe": "공방, 공장, 수리소",
       "necenpe": "제작자, 수리공",
-      "acenpe": "제작 도구, 수리 도구"
+      "cenpe on puipe": "제작 도구, 수리 도구"
     },
     "gon": {
       "gonci": "살인, 폭행, 전쟁",
@@ -80,10 +80,10 @@
       "gonzi": "자해",
       "xigonci": "살인 현장, 전쟁터",
       "negonci": "살인자, 군인",
-      "agonci": "살인 도구, 무기",
+      "gonci on puipe": "살인 도구, 무기",
       "xigonpe": "폐허, 철거된 곳",
       "negonpe": "파괴자, 철거자",
-      "agonpe": "철거 도구, 파괴 도구"
+      "gonpe on puipe": "철거 도구, 파괴 도구"
     },
     "qon": {
       "qonci": "인문학, 심리학, 사회학",
@@ -91,7 +91,7 @@
       "qonzi": "독학, 복습",
       "xiqon": "연구소",
       "neqon": "연구자, 과학자",
-      "aqon": "연구 도구, 피실험자"
+      "qon on puipe": "연구 도구, 피실험자"
     },
     "qie": {
       "qiepe": "기록, 역사",
@@ -103,9 +103,9 @@
       "cemzi": "자기 점검, 자가 진단",
       "xicemci": "법원",
       "necemci": "판사",
-      "acemci": "법, 규칙",
+      "cemci on puipe": "법, 규칙",
       "necempe": "측정자",
-      "acempe": "측정 도구, 측정 단위"
+      "cempe on puipe": "측정 도구, 측정 단위"
     },
     "tue": {
       "tuepe": "운송, 이동",
