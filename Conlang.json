@@ -6,7 +6,7 @@
     "tui": "말하다/에 대한 것을 가르치다",
     "ner": "만들다/수리하다/치료하다/받아들이다",
     "bor": "죽이다/망치다/때리다",
-    "sqie": "~학을 배우다/외우다/연구하다",
+    "qie": "~학을 배우다/외우다/연구하다",
     "cime": "기록하다/작성하다",
     "cem": "측정하다/검증하다",
     "tue": "이동하다/도망가다/가다/걷다",
@@ -85,35 +85,36 @@
       "borpe on ne": "파괴자, 철거자, 도축업자",
       "borpe on stepe": "철거 도구, 파괴 도구"
     },
-    "cie": {
-      "cecie": "인문학, 심리학, 사회학",
-      "pecie": "연구, 조사",
-      "zicie": "독학, 복습",
-      "ciexi": "연구소",
-      "ciene": "연구자, 과학자",
-      "cie on pepui": "연구 도구, 피실험자"
+    "qie": {
+      "qiece": "인문학, 심리학, 사회학",
+      "qiepe": "연구, 조사",
+      "qieza": "독학, 복습",
+      "qie on xi": "연구소",
+      "qie on ne": "연구자, 과학자",
+      "qie on stepe": "연구 도구, 피실험자"
     },
-    "mar": {
-      "pemar": "기록, 역사",
-      "zimar": "일기, 메모"
+    "cime": {
+      "cimepe": "기록, 역사",
+      "cimeza": "일기, 메모"
     },
     "cem": {
-      "cecem": "재판",
-      "pecem": "측정, 계측",
-      "zicem": "자기 점검, 자가 진단",
-      "cecemxi": "법원",
-      "cecemne": "판사",
-      "cem on pepui": "법, 규칙",
-      "pecemne": "측정자",
-      "pecem on pepui": "측정 도구, 측정 단위"
+      "cemce": "재판",
+      "cempe": "측정, 계측",
+      "cemza": "자기 점검, 자가 진단",
+      "cemce on xi": "법원",
+      "cemce on ne": "판사",
+      "cem on stepe": "법, 규칙",
+      "cempe on ne": "측정자",
+      "cempe on stepe": "측정 도구, 측정 단위"
     },
     "tue": {
       "tuepe": "운송, 이동",
-      "tuezi": "산책, 배회"
+      "tueza": "산책, 배회"
     },
     "bin": {
       "binci": "식인",
-      "binmi": "먹이 사슬"
+      "binmi": "먹이 사슬",
+      "bin on xi": "식당"
     },
     "tor": {
       "torci": "동거, 공동체, 사랑",
