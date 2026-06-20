@@ -76,9 +76,15 @@
       "macelpe": "제작 도구, 수리 도구"
     },
     "scor": {
-      "scorci": "살인, 폭행",
+      "scorci": "살인, 폭행, 전쟁",
       "scorpe": "파괴, 훼손",
-      "scorzi": "자해"
+      "scorzi": "자해",
+      "conscorci": "살인 현장, 전쟁터",
+      "nescorci": "살인자, 군인",
+      "mascorci": "살인 도구, 무기",
+      "conscorpe": "폐허, 철거된 곳",
+      "nescorpe": "파괴자, 철거자",
+      "mascorpe": "철거 도구, 파괴 도구"
     },
     "qon": {
       "qonci": "인문학, 심리학, 사회학",
