@@ -60,7 +60,7 @@
       "petui": "훈련, 조정",
       "zitui": "혼잣말, 자습, 독학",
       "tuixi": "학교, 토론장",
-      "netui": "선생님, 스승",
+      "tuine": "선생님, 스승",
       "tui on pepui": "학습 도구"
     },
     "cen": {
@@ -68,10 +68,10 @@
       "pecen": "수리, 제작, 공예",
       "zicen": "습관, 성격",
       "cecenxi": "병원",
-      "nececen": "의사, 간호사",
+      "cecenne": "의사, 간호사",
       "cecen on pepui": "의료 도구",
       "pecenxi": "공방, 공장, 수리소",
-      "nepecen": "제작자, 수리공",
+      "pecenne": "제작자, 수리공",
       "pecen on pepui": "제작 도구, 수리 도구"
     },
     "gon": {
@@ -79,10 +79,10 @@
       "pegon": "파괴, 훼손",
       "zigon": "자해",
       "cegonxi": "살인 현장, 전쟁터",
-      "nexigon": "살인자, 군인",
+      "cegonne": "살인자, 군인",
       "cegon on pepui": "살인 도구, 무기",
       "pegonxi": "폐허, 철거된 곳",
-      "nepegon": "파괴자, 철거자",
+      "pegonne": "파괴자, 철거자",
       "pegon on pepui": "철거 도구, 파괴 도구"
     },
     "cie": {
@@ -90,7 +90,7 @@
       "pecie": "연구, 조사",
       "zicie": "독학, 복습",
       "ciexi": "연구소",
-      "necie": "연구자, 과학자",
+      "ciene": "연구자, 과학자",
       "cie on pepui": "연구 도구, 피실험자"
     },
     "mar": {
@@ -102,9 +102,9 @@
       "pecem": "측정, 계측",
       "zicem": "자기 점검, 자가 진단",
       "cecemxi": "법원",
-      "nececem": "판사",
+      "cecemne": "판사",
       "cem on pepui": "법, 규칙",
-      "nepecem": "측정자",
+      "pecemne": "측정자",
       "pecem on pepui": "측정 도구, 측정 단위"
     },
     "tue": {
