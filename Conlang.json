@@ -1,10 +1,10 @@
 {
   "예문": {
-    "mi ponlep cac ote minpe, pun, nenol concence gi": "내가 복제하는 기록에 대해 배웠기 때문에 체포자가 너를 가둘 것이다."
+    "mi ponpie cac ote minpe, pun, nenol concence gi": "내가 복제하는 기록에 대해 배웠기 때문에 체포자가 너를 가둘 것이다."
   },
   "어근": {
-    "deu | deune | deupe | deuse": "사용하다/소모하다 | 고용/노동 시킴 | 도구/기계/장비/소모품 | 과로",
-    "lep | lepne | leppe | lepse": "-학을 배우다/외우다/연구하다 | 스승에게 배우다 | 학문을 연구하다 | 독학하다",
+    "tui | tuine | tuipe | tuiue": "사용하다/소모하다 | 고용/노동 시킴 | 도구/기계/장비/소모품 | 과로",
+    "pie | pieue": "-학을 배우다/외우다/연구하다 | 독학하다",
     "nos | nosne": "비교하다/대조하다 | 차별/비교질",
     "mec | mecne | mecpe | mecse": "측정하다/검증하다 | 재판 | 증명 | 자신의 가치를 증명",
     "tor | torne": "머무르다/거주하다/생존하다 | 우정/의리",
@@ -49,7 +49,7 @@
     "mi": "나",
     "gi": "너",
     "ne": "사람",
-    "se": "스스로",
+    "ue": "스스로",
     
     "pon-": "과거시제",
     "ton-": "현재 시제",
