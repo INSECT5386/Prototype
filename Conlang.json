@@ -9,19 +9,12 @@
     "문법4": "[주어] peh/npeh [동사], [주어2] hu [목적어] peh/npeh [동사2] (-는 -하다, -가 -를 -하다)",
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
-  "예문": {
-    "nni ses": "나는 생명체이다",
-    "nni peh hu nsi": "나는 물체를 만든다",
-    "nni peh tahna, nsi nhara": "내가 생각한다, 그것은 가짜이다",
-    "nni peh hara, nsi peh qine hu hara": "내가 관찰한다, 그것이 자연을 연구한다",
-    "nni peh hu nsi, hu, si peh nhara hu ses": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
-  },
-  "tla nni si": {
-    "1": "si hu hara npeh. tahna, tla hu si peh nni. ni, tla hu si npeh. nhu, tla hu si nni qine peh ni, ses hara.",
-    "2": "si hu hara peh ni. tahna, tla hu si peh nni, ses nni nni npeh.",
-    "3": "si hu hara peh nhara. tahna, tla peh hu hara. ni, tla hu si npeh.",
-    "4": "si hu nqine peh ni. tahna, tla hu 10 qine peh ni, ses si.",
-    "5": "si hu nqine npeh ni. tahna, tla hu si peh nni, ses npeh nni npeh."
+  "tuh nni si": {
+    "1": "si hu hara npeh. tahna, tuh hu si peh nni. ni, tuh hu si npeh. nhu, tuh hu si nni qine peh ni, ses hara.",
+    "2": "si hu hara peh ni. tahna, tuh hu si peh nni, ses nni nni npeh.",
+    "3": "si hu hara peh nhara. tahna, tuh peh hu hara. ni, tuh hu si npeh.",
+    "4": "si hu nqine peh ni. tahna, tuh hu 10 qine peh ni, ses si.",
+    "5": "si hu nqine npeh ni. tahna, tuh hu si peh nni, ses npeh nni npeh."
   },
   "어근": {
     "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
@@ -34,7 +27,7 @@
     "si": "인간, 누군가, 의인화, 인간적인",
     "qine": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
     "hata": "사용, 고용, 소모/태움/호흡/섭취",
-    "tla": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
+    "tuh": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
   },
   "반의 어근": {
     "nhu": "([연결사] 또는) | 미정, 대체, 다른",
