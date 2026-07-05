@@ -4,27 +4,27 @@
     "규칙2": "의문문은 문장 끝에 '?' 를 붙인다",
     "규칙3": "명령문은 문장 끝에 '!' 를 붙인다",
     "문법1": "[주어] [대상] (-는 -이다)",
-    "문법2": "[주어] [서술어] pu [목적어] (-가 -를 -하다)",
+    "문법2": "[주어] [서술어] hu [목적어] (-가 -를 -하다)",
     "문법3": "[주어] [동사], [주어2] [대상] (-가 -하다, -는 -이다)",
-    "문법4": "[주어] [동사], [주어2] pu [동사2] [목적어] (-는 -하다, -가 -를 -하다)",
+    "문법4": "[주어] [동사], [주어2] hu [동사2] [목적어] (-는 -하다, -가 -를 -하다)",
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
   "예문": {
     "in la": "나는 생명체이다",
-    "in llu pu is": "나는 물체를 만든다",
+    "in llu hu is": "나는 물체를 만든다",
     "in llu ltus, is sanh": "내가 생각한다, 그것은 가짜이다",
-    "in llu hnas, is llu nnah pu hnas": "내가 관찰한다, 그것이 자연을 연구한다",
-    "in llu pu is, pu, si llu sanh pu la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
+    "in llu hnas, is llu nnah hu hnas": "내가 관찰한다, 그것이 자연을 연구한다",
+    "in llu hu is, hu, si llu sanh hu la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
   },
   "tla in si": {
-    "1": "si ull pu is up si in up. ltus, tla llu in pu si. ni, tla ull pu si. up, tla llu ni pu nnah in si, las hnas.",
-    "2": "si llu ni pu is up si in up. ltus, tla llu in pu si, las ull in in.",
-    "3": "si llu sanh pu nnah up si in up. ltus, tla llu hnas. ni, tla ull pu si.",
-    "4": "si llu ni pu hann. ltus, tla llu ni pu 10 nnah, las si.",
-    "5": "si ull ni pu hann(si llu in pu hann). ltus, tla llu in pu si, las ull in ull."
+    "1": "si ull hu is uh si in uh. ltus, tla llu in hu si. ni, tla ull hu si. uh, tla llu ni hu nnah in si, las hnas.",
+    "2": "si llu ni hu is uh si in uh. ltus, tla llu in hu si, las ull in in.",
+    "3": "si llu sanh hu nnah uh si in uh. ltus, tla llu hnas. ni, tla ull hu si.",
+    "4": "si llu ni hu hann. ltus, tla llu ni hu 10 nnah, las si.",
+    "5": "si ull ni hu hann(si llu in hu hann). ltus, tla llu in hu si, las ull in ull."
   },
   "어근": {
-    "pu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
+    "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
     "las": "([전치사] -에게) | 시작, 생존 | 생명체, 장기",
     "ntu": "([연결사] 그렇기 때문에/그것에 의해) | 원인, 결정, 선택, 판단 | 과거 시제",
     "ni": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
@@ -33,11 +33,11 @@
     "llu": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
     "si": "인간, 누군가, 의인화, 인간적인",
     "nnah": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
-    "palh": "사용, 고용, 소모/태움/호흡/섭취",
+    "halh": "사용, 고용, 소모/태움/호흡/섭취",
     "tla": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
   },
   "반의 어근": {
-    "up": "([연결사] 또는) | 미정, 대체, 다른",
+    "uh": "([연결사] 또는) | 미정, 대체, 다른",
     "sal": "([전치사] - 에서/에게서) | 끝, 죽음, 인정 | 시체, 괴물",
     "utn": "([연결사] 그래서) | 결과 | 미래 시제",
     "in": "(나/스스로/혼자/-소유의/-속성의/-의) | 수용, 포함, 폐쇄 및 내부/안/아래",
