@@ -4,9 +4,9 @@
     "규칙2": "의문문은 문장 끝에 '?' 를 붙인다",
     "규칙3": "명령문은 문장 끝에 '!' 를 붙인다",
     "문법1": "[주어] [대상] (-는 -이다)",
-    "문법2": "[주어] [서술어] hu [목적어] (-가 -를 -하다)",
-    "문법3": "[주어] [동사], [주어2] [대상] (-가 -하다, -는 -이다)",
-    "문법4": "[주어] [동사], [주어2] hu [동사2] [목적어] (-는 -하다, -가 -를 -하다)",
+    "문법2": "[주어] hu [목적어] llu/ull [서술어] (-가 -를 -하다)",
+    "문법3": "[주어] llu/ull [동사], [주어2] [대상] (-가 -하다, -는 -이다)",
+    "문법4": "[주어] llu/ull [동사], [주어2] hu [목적어] llu/ull [동사2] (-는 -하다, -가 -를 -하다)",
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
   "예문": {
@@ -17,11 +17,11 @@
     "in llu hu is, hu, si llu sanh hu las": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
   },
   "tla in si": {
-    "1": "si ull hu is uh si in uh. ltus, tla llu in hu si. ni, tla ull hu si. uh, tla llu ni hu nnah in si, las hnas.",
-    "2": "si llu ni hu is uh si in uh. ltus, tla llu in hu si, las ull in in.",
-    "3": "si llu sanh hu nnah uh si in uh. ltus, tla llu hnas. ni, tla ull hu si.",
-    "4": "si llu ni hu hann. ltus, tla llu ni hu 10 nnah, las si.",
-    "5": "si ull ni hu hann(si llu in hu hann). ltus, tla llu in hu si, las ull in ull."
+    "1": "si hu is uh si in uh ull. ltus, tla hu si llu in. ni, tla hu si ull. uh, tla hu nnah in si llu ni, las hnas.",
+    "2": "si hu is uh si in uh llu ni. ltus, tla hu si llu in, las ull in in.",
+    "3": "si hu nnah uh si in uh llu sanh. ltus, tla llu hu hnas. ni, tla hu si ull.",
+    "4": "si hu hann llu ni. ltus, tla hu 10 nnah llu ni, las si.",
+    "5": "si hu hann ull ni(si hu hann llu in). ltus, tla hu si llu in, las ull in ull."
   },
   "어근": {
     "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
