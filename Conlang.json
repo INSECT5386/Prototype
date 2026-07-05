@@ -4,17 +4,17 @@
     "규칙2": "의문문은 문장 끝에 '?' 를 붙인다",
     "규칙3": "명령문은 문장 끝에 '!' 를 붙인다",
     "문법1": "[주어] [대상] (-는 -이다)",
-    "문법2": "[주어] hu [목적어] peh/npeh [서술어] (-가 -를 -하다)",
-    "문법3": "[주어] peh/npeh [동사], [주어2] [대상] (-가 -하다, -는 -이다)",
-    "문법4": "[주어] peh/npeh [동사], [주어2] hu [목적어] peh/npeh [동사2] (-는 -하다, -가 -를 -하다)",
+    "문법2": "[주어] hu [목적어] peh/rpeh [서술어] (-가 -를 -하다)",
+    "문법3": "[주어] peh/rpeh [동사], [주어2] [대상] (-가 -하다, -는 -이다)",
+    "문법4": "[주어] peh/rpeh [동사], [주어2] hu [목적어] peh/rpeh [동사2] (-는 -하다, -가 -를 -하다)",
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
-  "tuh nni si": {
-    "1": "si hu hara npeh. tahna, tuh hu si peh nni. ni, tuh hu si npeh. nhu, tuh hu si nni qine peh ni, ses hara.",
-    "2": "si hu hara peh ni. tahna, tuh hu si peh nni, ses nni nni npeh.",
-    "3": "si hu hara peh nhara. tahna, tuh peh hu hara. ni, tuh hu si npeh.",
-    "4": "si hu nqine peh ni. tahna, tuh hu 10 qine peh ni, ses si.",
-    "5": "si hu nqine npeh ni. tahna, tuh hu si peh nni, ses npeh nni npeh."
+  "tuh lli si": {
+    "1": "si hu hara rpeh. tahna, tuh hu si peh lli. ni, tuh hu si rpeh. rhu, tuh hu si lli qine peh ni, ses hara.",
+    "2": "si hu hara peh ni. tahna, tuh hu si peh lli, ses lli lli rpeh.",
+    "3": "si hu hara peh rhara. tahna, tuh peh hu hara. ni, tuh hu si rpeh.",
+    "4": "si hu rqine peh ni. tahna, tuh hu 10 qine peh ni, ses si.",
+    "5": "si hu rqine rpeh ni. tahna, tuh hu si peh lli, ses rpeh lli rpeh."
   },
   "어근": {
     "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
@@ -30,13 +30,13 @@
     "tuh": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
   },
   "반의 어근": {
-    "nhu": "([연결사] 또는) | 미정, 대체, 다른",
-    "nses": "([전치사] - 에서/에게서) | 끝, 죽음, 인정 | 시체, 괴물",
-    "nneqi": "([연결사] 그래서) | 결과 | 미래 시제",
-    "nni": "(나/스스로/혼자/-소유의/-속성의/-의) | 수용, 포함, 폐쇄 및 내부/안/아래",
-    "nhara": "(일방적/피동) | 무시, 가상, 흉내, 의심, 오해, 혐오",
-    "npeh": "(하지 않다), 멈춤, 고정, 유지, 차감, 위치, 장소, 공간, 차원, 파괴",
-    "nsi": "비인간, 사물, 물질, 실체, 도구, 그것, 이것, 저것",
-    "nqine": "무지, 거짓, 삭제, 불가능, 부정, 무가치, 어둠"
+    "rhu": "([연결사] 또는) | 미정, 대체, 다른",
+    "rses": "([전치사] - 에서/에게서) | 끝, 죽음, 인정 | 시체, 괴물",
+    "lleqi": "([연결사] 그래서) | 결과 | 미래 시제",
+    "lli": "(나/스스로/혼자/-소유의/-속성의/-의) | 수용, 포함, 폐쇄 및 내부/안/아래",
+    "rhara": "(일방적/피동) | 무시, 가상, 흉내, 의심, 오해, 혐오",
+    "rpeh": "(하지 않다), 멈춤, 고정, 유지, 차감, 위치, 장소, 공간, 차원, 파괴",
+    "rsi": "비인간, 사물, 물질, 실체, 도구, 그것, 이것, 저것",
+    "rqine": "무지, 거짓, 삭제, 불가능, 부정, 무가치, 어둠"
   }
 }
