@@ -11,11 +11,11 @@
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
   "si lni tuh": {
-    "1": "si hu hara rpeh. tahna, tuh hu si peh lni. ni, tuh hu si rpeh. rhu, tuh hu si lni qine peh ni, ses hara.",
-    "2": "si hu hara peh ni. tahna, tuh hu si peh lni, ses lni rpeh.",
-    "3": "si hu hara peh rhara. tahna, tuh peh hu hara. ni, tuh hu si rpeh.",
-    "4": "si hu rqine peh ni. tahna, tuh hu 10 qine peh ni, ses si.",
-    "5": "si hu rqine rpeh ni. tahna, tuh hu si peh lni, ses rpeh lni rpeh."
+    "1": "si hu hara rpeh. lharo, tuh hu si peh lni. ni, tuh hu si rpeh. rhu, tuh hu si lni qine peh ni, ses hara.",
+    "2": "si hu hara peh ni. lharo, tuh hu si peh lni, ses lni rpeh.",
+    "3": "si hu hara peh rhara. lharo, tuh peh hu hara. ni, tuh hu si rpeh.",
+    "4": "si hu rqine peh ni. lharo, tuh hu 10 qine peh ni, ses si.",
+    "5": "si hu rqine rpeh ni. lharo, tuh hu si peh lni, ses rpeh lni rpeh."
   },
   "어근": {
     "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
@@ -23,7 +23,7 @@
     "nueh": "([연결사] 그렇기 때문에/그것에 의해) | 원인, 결정, 선택, 판단 | 과거 시제",
     "ni": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
     "hara": "(대등) | 관찰, 모든 것, 우주, 현실, 자연, 물리",
-    "tahna": "([연결사] 그렇다면/그것이라면) | 가정, 증명, 생각, 지능",
+    "lharo": "([연결사] 그렇다면/그것이라면) | 가정, 증명, 생각, 지능",
     "peh": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
     "si": "인간, 누군가, 의인화, 인간적인",
     "qine": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
