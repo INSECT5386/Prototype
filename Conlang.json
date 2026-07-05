@@ -10,40 +10,40 @@
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
   "예문": {
-    "im la": "나는 생명체이다",
-    "im lta hu il": "나는 물체를 만든다",
-    "im lta ltuh, il lamh": "내가 생각한다, 그것은 가짜이다",
-    "im lta hmal, il lta mah hu hmal": "내가 관찰한다, 그것이 자연을 연구한다",
-    "im lta hu il, hu, li lta lamh hu la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
+    "in la": "나는 생명체이다",
+    "in lt hu it": "나는 물체를 만든다",
+    "in lt ltuh, it lanh": "내가 생각한다, 그것은 가짜이다",
+    "in lt hnal, it lt nath hu hnal": "내가 관찰한다, 그것이 자연을 연구한다",
+    "in lt hu it, hu, ti lt lanh hu la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
   },
-  "mpa im li": {
-    "1": "li atl hu il uh li im uh. ltuh, mpa lta im hu li. mi, mpa atl hu li. uh, mpa lta mi hu mah im li, ta hmal.",
-    "2": "li lta mi hu il uh li im uh. ltuh, mpa lta im hu li, ta atl im im.",
-    "3": "li lta lamh hu mah uh li im uh. ltuh, mpa lta hmal. mi, mpa atl hu li.",
-    "4": "li lta mi hu ham. ltuh, mpa lta mi hu 10 mah, ta li.",
-    "5": "li atl mi hu ham(li lta im hu ham). ltuh, mpa lta im hu li, ta atl im atl."
+  "nha in ti": {
+    "1": "ti tl hu it uh ti in uh. ltuh, nha lt in hu ti. ni, nha tl hu ti. uh, nha lt ni hu nath in ti, ta hnal.",
+    "2": "ti lt ni hu it uh ti in uh. ltuh, nha lt in hu ti, ta tl in in.",
+    "3": "ti lt lanh hu nath uh ti in uh. ltuh, nha lt hnal. ni, nha tl hu ti.",
+    "4": "ti lt ni hu htan. ltuh, nha lt ni hu 10 nath, ta ti.",
+    "5": "ti tl ni hu htan(ti lt in hu htan). ltuh, nha lt in hu ti, ta tl in tl."
   },
   "어근": {
     "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
     "ta": "([전치사] -에게) | 시작, 생존 | 생명체, 장기",
-    "mtu": "([연결사] 그렇기 때문에/그것에 의해) | 원인, 결정, 선택, 판단 | 과거 시제",
-    "mi": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
-    "hmal": "(대등) | 관찰, 모든 것, 우주, 현실, 자연, 물리",
+    "ntu": "([연결사] 그렇기 때문에/그것에 의해) | 원인, 결정, 선택, 판단 | 과거 시제",
+    "ni": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
+    "hnal": "(대등) | 관찰, 모든 것, 우주, 현실, 자연, 물리",
     "ltuh": "([연결사] 그렇다면/그것이라면) | 가정, 증명, 생각, 지능",
-    "lta": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
-    "li": "인간, 누군가, 의인화, 인간적인",
-    "mah": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
+    "": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
+    "ti": "인간, 누군가, 의인화, 인간적인",
+    "nath": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
     "tun": "사용, 고용, 소모/태움/호흡/섭취",
-    "mpa": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
+    "nha": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
   },
   "반의 어근": {
     "uh": "([연결사] 또는) | 미정, 대체, 다른",
     "at": "([전치사] - 에서/에게서) | 끝, 죽음, 인정 | 시체, 괴물",
-    "utm": "([연결사] 그래서) | 결과 | 미래 시제",
-    "im": "(나/스스로/혼자/-소유의/-속성의/-의) | 수용, 포함, 폐쇄 및 내부/안/아래",
-    "lamh": "(일방적/피동) | 무시, 가상, 흉내, 의심, 오해, 혐오",
-    "atl": "(하지 않다), 멈춤, 고정, 유지, 차감, 위치, 장소, 공간, 차원, 파괴",
-    "il": "비인간, 사물, 물질, 실체, 도구, 그것, 이것, 저것",
-    "ham": "무지, 거짓, 삭제, 불가능, 부정, 무가치, 어둠"
+    "utn": "([연결사] 그래서) | 결과 | 미래 시제",
+    "in": "(나/스스로/혼자/-소유의/-속성의/-의) | 수용, 포함, 폐쇄 및 내부/안/아래",
+    "lanh": "(일방적/피동) | 무시, 가상, 흉내, 의심, 오해, 혐오",
+    "tl": "(하지 않다), 멈춤, 고정, 유지, 차감, 위치, 장소, 공간, 차원, 파괴",
+    "it": "비인간, 사물, 물질, 실체, 도구, 그것, 이것, 저것",
+    "htan": "무지, 거짓, 삭제, 불가능, 부정, 무가치, 어둠"
   }
 }
