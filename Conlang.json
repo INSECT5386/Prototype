@@ -3,15 +3,16 @@
     "규칙1": "재귀 구조는 허용되지 않는다",
     "규칙2": "의문문은 문장 끝에 '?' 를 붙인다",
     "규칙3": "명령문은 문장 끝에 '!' 를 붙인다",
+    "규칙4": "전치 수식을 사용한다",
     "문법1": "[주어] [대상] (-는 -이다)",
     "문법2": "[주어] hu [목적어] peh/rpeh [서술어] (-가 -를 -하다)",
     "문법3": "[주어] peh/rpeh [동사], [주어2] [대상] (-가 -하다, -는 -이다)",
     "문법4": "[주어] peh/rpeh [동사], [주어2] hu [목적어] peh/rpeh [동사2] (-는 -하다, -가 -를 -하다)",
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
-  "tuh lli si": {
+  "si lli tuh": {
     "1": "si hu hara rpeh. tahna, tuh hu si peh lli. ni, tuh hu si rpeh. rhu, tuh hu si lli qine peh ni, ses hara.",
-    "2": "si hu hara peh ni. tahna, tuh hu si peh lli, ses lli lli rpeh.",
+    "2": "si hu hara peh ni. tahna, tuh hu si peh lli, ses lli rpeh.",
     "3": "si hu hara peh rhara. tahna, tuh peh hu hara. ni, tuh hu si rpeh.",
     "4": "si hu rqine peh ni. tahna, tuh hu 10 qine peh ni, ses si.",
     "5": "si hu rqine rpeh ni. tahna, tuh hu si peh lli, ses rpeh lli rpeh."
