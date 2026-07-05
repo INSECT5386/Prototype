@@ -11,17 +11,17 @@
   },
   "예문": {
     "on la": "나는 생명체이다",
-    "on llo pe im": "나는 물체를 만든다",
-    "on llo ltus, im sorrh": "내가 생각한다, 그것은 가짜이다",
-    "on llo hrros, im llo llah pe hrros": "내가 관찰한다, 그것이 자연을 연구한다",
-    "on llo pe im, pe, mi llo sorrh pe la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
+    "on llo pe in": "나는 물체를 만든다",
+    "on llo ltus, in sorrh": "내가 생각한다, 그것은 가짜이다",
+    "on llo hrros, in llo llah pe hrros": "내가 관찰한다, 그것이 자연을 연구한다",
+    "on llo pe in, pe, ni llo sorrh pe la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
   },
-  "tla on mi": {
-    "1": "mi oll pe im ep mi on ep. ltus, tla llo on pe mi. no, tla oll pe mi. ep, tla llo no pe llah on mi, la hrros.",
-    "2": "mi llo no pe im ep mi on ep. ltus, tla llo on pe mi, la oll on on.",
-    "3": "mi llo sorrh pe llah ep mi on ep. ltus, tla llo hrros. no, tla oll pe mi.",
-    "4": "mi llo no pe hall. ltus, tla llo no pe 10 llah, la mi.",
-    "5": "mi oll no pe hall(mi llo on pe hall). ltus, tla llo on pe mi, la oll on oll."
+  "tla on ni": {
+    "1": "ni oll pe in ep ni on ep. ltus, tla llo on pe ni. no, tla oll pe ni. ep, tla llo no pe llah on ni, la hrros.",
+    "2": "ni llo no pe in ep ni on ep. ltus, tla llo on pe ni, la oll on on.",
+    "3": "ni llo sorrh pe llah ep ni on ep. ltus, tla llo hrros. no, tla oll pe ni.",
+    "4": "ni llo no pe hall. ltus, tla llo no pe 10 llah, la ni.",
+    "5": "ni oll no pe hall(ni llo on pe hall). ltus, tla llo on pe ni, la oll on oll."
   },
   "어근": {
     "pe": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
@@ -31,7 +31,7 @@
     "hrros": "(대등) | 관찰, 모든 것, 우주, 현실, 자연, 물리",
     "ltus": "([연결사] 그렇다면/그것이라면) | 가정, 증명, 생각, 지능",
     "llo": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
-    "mi": "인간, 누군가, 의인화, 인간적인",
+    "ni": "인간, 누군가, 의인화, 인간적인",
     "llah": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
     "hpil": "사용, 고용, 소모/태움/호흡/섭취",
     "tla": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
@@ -43,7 +43,7 @@
     "no": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
     "sorrh": "(일방적/피동) | 무시, 가상, 흉내, 의심, 오해, 혐오",
     "oll": "(하지 않다), 멈춤, 고정, 유지, 차감, 위치, 장소, 공간, 차원, 파괴",
-    "im": "비인간, 사물, 물질, 실체, 도구, 그것, 이것, 저것",
+    "in": "비인간, 사물, 물질, 실체, 도구, 그것, 이것, 저것",
     "hall": "무지, 거짓, 삭제, 불가능, 부정, 무가치, 어둠"
   }
 }
