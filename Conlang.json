@@ -12,16 +12,16 @@
   "예문": {
     "im la": "나는 생명체이다",
     "im lta hu il": "나는 물체를 만든다",
-    "im lta ltul, il lamh": "내가 생각한다, 그것은 가짜이다",
+    "im lta ltuh, il lamh": "내가 생각한다, 그것은 가짜이다",
     "im lta hmal, il lta mah hu hmal": "내가 관찰한다, 그것이 자연을 연구한다",
     "im lta hu il, hu, li lta lamh hu la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
   },
   "mpa im li": {
-    "1": "li atl hu il uh li im uh. ltul, mpa lta im hu li. mi, mpa atl hu li. uh, mpa lta mi hu mah im li, ta hmal.",
-    "2": "li lta mi hu il uh li im uh. ltul, mpa lta im hu li, ta atl im im.",
-    "3": "li lta lamh hu mah uh li im uh. ltul, mpa lta hmal. mi, mpa atl hu li.",
-    "4": "li lta mi hu ham. ltul, mpa lta mi hu 10 mah, ta li.",
-    "5": "li atl mi hu ham(li lta im hu ham). ltul, mpa lta im hu li, ta atl im atl."
+    "1": "li atl hu il uh li im uh. ltuh, mpa lta im hu li. mi, mpa atl hu li. uh, mpa lta mi hu mah im li, ta hmal.",
+    "2": "li lta mi hu il uh li im uh. ltuh, mpa lta im hu li, ta atl im im.",
+    "3": "li lta lamh hu mah uh li im uh. ltuh, mpa lta hmal. mi, mpa atl hu li.",
+    "4": "li lta mi hu ham. ltuh, mpa lta mi hu 10 mah, ta li.",
+    "5": "li atl mi hu ham(li lta im hu ham). ltuh, mpa lta im hu li, ta atl im atl."
   },
   "어근": {
     "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
@@ -29,7 +29,7 @@
     "mtu": "([연결사] 그렇기 때문에/그것에 의해) | 원인, 결정, 선택, 판단 | 과거 시제",
     "mi": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
     "hmal": "(대등) | 관찰, 모든 것, 우주, 현실, 자연, 물리",
-    "ltul": "([연결사] 그렇다면/그것이라면) | 가정, 증명, 생각, 지능",
+    "ltuh": "([연결사] 그렇다면/그것이라면) | 가정, 증명, 생각, 지능",
     "lta": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
     "li": "인간, 누군가, 의인화, 인간적인",
     "mah": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
