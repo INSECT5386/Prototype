@@ -10,40 +10,40 @@
     "문법5": "[문장1 또는 단어] [연결사] [문장2 또는 단어]"
   },
   "예문": {
-    "in la": "나는 생명체이다",
-    "in llu hu is": "나는 물체를 만든다",
-    "in llu ltus, is sanh": "내가 생각한다, 그것은 가짜이다",
-    "in llu hnas, is llu nnah hu hnas": "내가 관찰한다, 그것이 자연을 연구한다",
-    "in llu hu is, hu, si llu sanh hu la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
+    "im la": "나는 생명체이다",
+    "im lti hu is": "나는 물체를 만든다",
+    "im lti ltus, is samh": "내가 생각한다, 그것은 가짜이다",
+    "im lti hmas, is lti mah hu hmas": "내가 관찰한다, 그것이 자연을 연구한다",
+    "im lti hu is, hu, si lti samh hu la": "생명체가 도구를 만든다, 그것에 대하여, 나는 생명체를 의심한다"
   },
-  "tla in si": {
-    "1": "si ull hu is uh si in uh. ltus, tla llu in hu si. ni, tla ull hu si. uh, tla llu ni hu nnah in si, las hnas.",
-    "2": "si llu ni hu is uh si in uh. ltus, tla llu in hu si, las ull in in.",
-    "3": "si llu sanh hu nnah uh si in uh. ltus, tla llu hnas. ni, tla ull hu si.",
-    "4": "si llu ni hu hann. ltus, tla llu ni hu 10 nnah, las si.",
-    "5": "si ull ni hu hann(si llu in hu hann). ltus, tla llu in hu si, las ull in ull."
+  "tla im si": {
+    "1": "si itl hu is uh si im uh. ltus, tla lti im hu si. mi, tla itl hu si. uh, tla lti mi hu mah im si, ta hmas.",
+    "2": "si lti mi hu is uh si im uh. ltus, tla lti im hu si, ta itl im im.",
+    "3": "si lti samh hu mah uh si im uh. ltus, tla lti hmas. mi, tla itl hu si.",
+    "4": "si lti mi hu ham. ltus, tla lti mi hu 10 mah, ta si.",
+    "5": "si itl mi hu ham(si lti im hu ham). ltus, tla lti im hu si, ta itl im itl."
   },
   "어근": {
     "hu": "([연결사] 그것에 대하여/그것에 대한/목적어), 원하다, 목적, 소원",
-    "las": "([전치사] -에게) | 시작, 생존 | 생명체, 장기",
-    "ntu": "([연결사] 그렇기 때문에/그것에 의해) | 원인, 결정, 선택, 판단 | 과거 시제",
-    "ni": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
-    "hnas": "(대등) | 관찰, 모든 것, 우주, 현실, 자연, 물리",
+    "ta": "([전치사] -에게) | 시작, 생존 | 생명체, 장기",
+    "mtu": "([연결사] 그렇기 때문에/그것에 의해) | 원인, 결정, 선택, 판단 | 과거 시제",
+    "mi": "([연결사] 함께/서로/그것과 함께/그리고) | 전송, 연결, 개방, 공유, 사회 및 밖/외부/위",
+    "hmas": "(대등) | 관찰, 모든 것, 우주, 현실, 자연, 물리",
     "ltus": "([연결사] 그렇다면/그것이라면) | 가정, 증명, 생각, 지능",
-    "llu": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
+    "lti": "(하다), 행동, 움직임, 증가, 시간, 시대, 물, 액체, 창조",
     "si": "인간, 누군가, 의인화, 인간적인",
-    "nnah": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
+    "mah": "대화, 배움, 알다 / 정보, 통계, 경험, 기록, 진실, 가능, 긍정, 가치, 돈, 빛",
     "halh": "사용, 고용, 소모/태움/호흡/섭취",
     "tla": "규칙/논리, 방법/법/약속, 조종/규제/통솔/지킴"
   },
   "반의 어근": {
     "uh": "([연결사] 또는) | 미정, 대체, 다른",
-    "sal": "([전치사] - 에서/에게서) | 끝, 죽음, 인정 | 시체, 괴물",
-    "utn": "([연결사] 그래서) | 결과 | 미래 시제",
-    "in": "(나/스스로/혼자/-소유의/-속성의/-의) | 수용, 포함, 폐쇄 및 내부/안/아래",
-    "sanh": "(일방적/피동) | 무시, 가상, 흉내, 의심, 오해, 혐오",
-    "ull": "(하지 않다), 멈춤, 고정, 유지, 차감, 위치, 장소, 공간, 차원, 파괴",
+    "at": "([전치사] - 에서/에게서) | 끝, 죽음, 인정 | 시체, 괴물",
+    "utm": "([연결사] 그래서) | 결과 | 미래 시제",
+    "im": "(나/스스로/혼자/-소유의/-속성의/-의) | 수용, 포함, 폐쇄 및 내부/안/아래",
+    "samh": "(일방적/피동) | 무시, 가상, 흉내, 의심, 오해, 혐오",
+    "itl": "(하지 않다), 멈춤, 고정, 유지, 차감, 위치, 장소, 공간, 차원, 파괴",
     "is": "비인간, 사물, 물질, 실체, 도구, 그것, 이것, 저것",
-    "hann": "무지, 거짓, 삭제, 불가능, 부정, 무가치, 어둠"
+    "ham": "무지, 거짓, 삭제, 불가능, 부정, 무가치, 어둠"
   }
 }
