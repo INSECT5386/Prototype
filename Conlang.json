@@ -2,11 +2,11 @@
   "규칙": {
     "1": "어근 끼리 직접 결합하지 않는다",
     "2": "후치수식을 사용한다",
-    "-가 -에서 -를 사용하여 -에게 -를 -하다": "- in -to - to - nu - la -"
+    "-가 -에서 -를 사용하여 -에게 -를 -하다": "- in - to - to - nu - la -"
   },
   "예문": {
-    "1": "e po nampl to enn su silt.",
-    "2": "oe su antupt po annipt to pisn su tupt."
+    "1": "e in to to nu enn silt la nampl.",
+    "2": "oe antupt in to to nu pisn tupt la."
   },
   "어근": {
     "clun": "빛, 낮, 밝은, 태양",
