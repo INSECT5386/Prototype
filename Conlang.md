@@ -34,20 +34,16 @@ ioma su didum ptumu su "tim ptumu", didum bidum im sum sia tu sum tami psia tu b
 
 ioma im didum sbu psia tu tu sum tami psia ti bu ui ab tumu.
 
-ioma im "midba su dahum su pti im tu tu pu ti ha tama" tu tu pu ha dahum.
-
-lutn su ioma im midba psubu tu tu pu ha bedum.
+didum sbu psia ib didum su tumu su ptami im bidum tu tu bu tami su.
 
 tim ptumu 전쟁의 패전국, didum bidum의 요마께서 sum sia(승전국) 에서 sum tami psia(금서) 를 사용하여 sum sia를 멸망시켰다.
 
 요마께서 didum sbu psia(요마의 신세계)에서 sum tami psia(금서) 를 사용하여 인간을 만드신다.
 
-요마께서 "달이 태양을 끌어당기는 살아있는 곳"에서 살고 계신다.
-
-요마의 정신은 didum sbu psia(신세계) 에서 흐르고 있다.
+didum sbu psia는 달이 하늘에서 태양을 끌어당기는 살아있는 곳이다.
 ---
 1 : ioma 는 구 인류의 마지막 생존자이자 신 인류(스토리 당시의 현 인류)의 창조자임.
 2 : ioma 는 구 인류의 시체를 변형시켜 신 인류를 만들었음.
-3 : midba psubu 는 외부에 10분 이상 머무르면 얼어 죽을 정도로 춥다
+3 : sum tami psia 는 외부에 10분 이상 머무르면 얼어 죽을 정도로 춥다
 
 내 인공어로 신화 쓸건데 이렇게 시작해버릴거야. 어떤 분위기임?
