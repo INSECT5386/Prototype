@@ -50,7 +50,7 @@
 == 해석 ==
 sadosa psasu 전쟁의 패전국, tuta vata의 요사께서 satava sa(승전국) 에서 satava vutu psa(금서) 를 사용하여 satava sa를 멸망시켰다.
 
-요마께서 tuta sudu psa(요사의 신세계)에서 satava vutu psa(금서) 를 사용하여 인간을 만드신다.
+요사께서 tuta sudu psa(요사의 신세계)에서 satava vutu psa(금서) 를 사용하여 인간을 만드신다.
 
 tuta sudu psa는 달이 하늘에서 태양을 끌어당기는 살아있는 곳이다.
 ---
