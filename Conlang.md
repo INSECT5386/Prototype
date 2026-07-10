@@ -37,6 +37,7 @@ ioma im didum sbu psia tu tu sum tami psia ti bu ui ab tumu.
 
 didum sbu psia ib didum su tumu su ptami im bidum tu tu bu tami su.
 
+== 해석 ==
 tim ptumu 전쟁의 패전국, didum bidum의 요마께서 sum sia(승전국) 에서 sum tami psia(금서) 를 사용하여 sum sia를 멸망시켰다.
 
 요마께서 didum sbu psia(요마의 신세계)에서 sum tami psia(금서) 를 사용하여 인간을 만드신다.
