@@ -12,20 +12,22 @@
     "예문": {
       "1": [
         "(iosa tu cen nai tu cen psun tu 'iun pseh', tekh sun, tekh psun, a, tekh sun, pseh)",
-        "(iosa, cen cuah psun, a, tekh psun, ui, seh)",
-        "cen cuah psun = (cen tu seh tu piukn, nai, a, a, iukn, tu)"
+        "(iosa, cen pcuah, a, tekh psun, ui, seh)",
+        "cen pcuah = (cen tu seh tu piukn, nai, a, a, iukn, tu)"
       ],
       "2": [
         "iun pseh 전쟁의 패전국 cen nai의 iosa께서 tekh sun(승전국) 에서 tekh psun(금서) 를 사용하여 tekh sun를 멸망시켰다.",
-        "iosa께서 cen cuah psun에서 tekh psun(금서) 를 사용하여 인간을 만드신다.",
-        "cen cuah psun은 달이 하늘에서 태양을 끌어당기는 살아있는 곳이다."
+        "iosa께서 cen pcuah에서 tekh psun(금서) 를 사용하여 인간을 만드신다.",
+        "cen pcuah은 달이 하늘에서 태양을 끌어당기는 살아있는 곳이다."
       ]
     },
     "nai": "흐르다, 날다, 공기, 하늘, 물, 시간 / 날리다, 던지다, 버리다",
     "ptu": "이동하다, 걷다, 가다 / 놓다, 밀다, 돌려주다, 주다, 비우다",
     "tu": "자다, 쉬다 / 들다, 끌다, 가져오다, 얻다, 받다, 채우다, -의",
-    "cuah": "온도",
-    "cia": "길이, 깊이, 높이, 멀리 있는 정도",
+    "cuah": "더운, 뜨거운, 따뜻한, 불타다, 익다, 불 / 불태우다, 익히다, 굽다",
+    "pcuah": "추운, 차가운, 시원한, 얼다, 얼음 / 얼리다",
+    "cia": "긴, 깊은, 높은, 먼",
+    "pcia": "짧은, 얕은, 낮은, 가까운",
     "seh": "살다, 만들어지다, 거주하다, 시작되다, 작성되다 / 살리다, 시작하다, 만들다, 작성하다",
     "pseh": "죽다, 망가치다, 끝나다 / 죽이다, 망치다, 끝내다",
     "tekh": "알다, 사실, 정보 / 알리다, 말하다, 공유하다, 대화하다",
