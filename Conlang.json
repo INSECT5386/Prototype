@@ -9,17 +9,12 @@
   "어근": {
     "예문": {
       "1": [
-        "(iosa tua li bata tua li len tua 'cuo len', tia sa, tia ea psa, a, tia sa, len)",
+        "(iosa tua li oi tua li len tua 'cuo len', tia sa, tia ea psa, a, tia sa, len)",
         "(iosa, li sudu psa, a, tia ea psa, ui, plen)",
         "li sudu psa = (li tua plen tua pea, bata, a, a, ea, tua)"
       ]
     },
-    "음소": {
-      "1": [
-        "p, t, b, d, s, a, i, u"
-      ]
-    },
-    "bata": "흐르다, 날다, 공기, 하늘, 물, 시간 / 날리다, 던지다, 버리다",
+    "oi": "흐르다, 날다, 공기, 하늘, 물, 시간 / 날리다, 던지다, 버리다",
     "ptua": "이동하다, 걷다, 가다 / 놓다, 밀다, 돌려주다, 주다, 비우다",
     "tua": "자다, 쉬다 / 들다, 끌다, 가져오다, 얻다, 받다, 채우다, -의",
     "sudu": "온도",
