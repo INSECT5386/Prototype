@@ -9,9 +9,9 @@
   "어근": {
     "예문": {
       "1": [
-        "(iosa su tuta bata su tuta psasu su 'sadusa psasu', sataba sa, sataba ea psa, a, sataba sa, psasu)",
-        "(iosa, tuta sudu psa, a, sataba ea psa, ui, sasu)",
-        "tuta sudu psa = (tuta su sasu su pea, bata, a, a, ea, su)"
+        "(iosa su tuta bata su tuta lei su 'sadusa lei', sataba sa, sataba ea psa, a, sataba sa, lei)",
+        "(iosa, tuta sudu psa, a, sataba ea psa, ui, plei)",
+        "tuta sudu psa = (tuta su plei su pea, bata, a, a, ea, su)"
       ]
     },
     "음소": {
@@ -24,8 +24,8 @@
     "su": "자다, 쉬다 / 들다, 끌다, 가져오다, 얻다, 받다, 채우다, -의",
     "sudu": "온도",
     "data": "길이, 깊이, 높이, 멀리 있는 정도",
-    "sasu": "살다, 만들어지다, 거주하다, 시작되다, 작성되다 / 살리다, 시작하다, 만들다, 작성하다",
-    "psasu": "죽다, 망가치다, 끝나다 / 죽이다, 망치다, 끝내다",
+    "plei": "살다, 만들어지다, 거주하다, 시작되다, 작성되다 / 살리다, 시작하다, 만들다, 작성하다",
+    "lei": "죽다, 망가치다, 끝나다 / 죽이다, 망치다, 끝내다",
     "sataba": "알다, 사실, 정보 / 가르치다, 알리다, 말하다, 공유하다, 대화하다",
     "tai": "먹히다, 마셔지다, 삼켜지다, 음식 / 먹다, 마시다, 삼키다",
     "ea": "보이다, 빛, 낮, 밝은, 태양 / 보다, 관찰하다, 배우다",
