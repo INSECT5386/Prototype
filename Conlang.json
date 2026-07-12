@@ -8,19 +8,19 @@
   "어근": {
     "예문": {
       "1": [
-        "'psarun ka' san plla taa san sisan taa san iusa (lla iuati, plla iuati, a) lla iuati in psarun.",
-        "iusa (pnitan taa, a, plla iuati) ui in sarun.",
+        "'psarun ka' san pra taa san sisan taa san iusa (ra iuati, pra iuati, a) ra iuati in psarun.",
+        "iusa (pnitan taa, a, pra iuati) ui in sarun.",
         "pnitan taa, pnuu (sisan, a, a) nuu in sarun san sarun san taa."
       ],
       "2": [
-        "psarun ka 전쟁의 패전국 sisan taa의 iusa가 (lla iuati에서 plla iuati를 사용하여) lla iuati를 멸망시켰다.",
-        "iusa가 (pnitan taa에서 plla iuati를 사용하여) 인간을 만들었다.",
+        "psarun ka 전쟁의 패전국 sisan taa의 iusa가 (ra iuati에서 pra iuati를 사용하여) ra iuati를 멸망시켰다.",
+        "iusa가 (pnitan taa에서 pra iuati를 사용하여) 인간을 만들었다.",
         "pnitan taa는 달이 (하늘에서) 태양을 끌어당기는 살아있는 곳이다."
       ]
     },
     "소리": {
       "음소": [
-        "s, r, n, l, t, p, k, a, i, u"
+        "s, r, n, t, p, k, a, i, u"
       ]
     },
     "긍정 어근": {
@@ -32,14 +32,14 @@
       "iuati": "알다 알게 되다 배우다 연구하다 사실 정보 / 알리다 말하다 공유하다 대화하다",
       "rati": "먹히다 마셔지다 삼켜지다 음식 / 먹다 마시다 삼키다",
       "nuu": "보이다 빛 낮 밝은 태양 / 보다 관찰하다",
-      "sila": "들리다 이해되다 소리 파동 / 듣다 이해하다",
+      "sira": "들리다 이해되다 소리 파동 / 듣다 이해하다",
       "rin": "냄새나다 냄새 / 맡다",
       "ui": "사람 의인화 누군가 그들 그녀 그",
       "u": "그것 이것 저것",
       "i": "나 나의 우리 우리의",
       "ka": "사용되다 도구 물건 사물 / 사용하다 탑승하다",
       "taa": "땅 흙 모래 세계 장소",
-      "lla": "큰 넓은 많은 좋은 선한 중요한 이기다 / 원하다 좋아하다",
+      "ra": "큰 넓은 많은 좋은 선한 중요한 이기다 / 원하다 좋아하다",
       "irati": "기억되다 느껴지다 정신 전기 / 기억하다 느끼다 생각하다",
       "paru": "교환되다 거래되다 바뀌다 돈 / 교환하다 거래하다 바꾸다"
     },
@@ -49,7 +49,7 @@
       "ptitun": "짧은 얕은 낮은 가까운",
       "psarun": "죽다 망가치다 끝나다 / 죽이다 망치다 끝내다",
       "pnuu": "보이지 않다 어둠 밤 어두운 달",
-      "plla": "작은 좁은 적은 나쁜 악한 필요 없는 지다 / 싫어하다 혐오하다"
+      "pra": "작은 좁은 적은 나쁜 악한 필요 없는 지다 / 싫어하다 혐오하다"
     }
   }
 }
