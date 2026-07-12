@@ -10,7 +10,7 @@
       "1": [
         "'psarun pa' san pra taa san sisan taa san iusa (ra iuati, pra iuati, a) ra iuati in psarun.",
         "iusa (pnitan taa, a, pra iuati) ui in sarun.",
-        "pnitan taa, pnuu (sisan, a, a) nuu in sarun san sarun san taa."
+        "pnitan taa, pnu (sisan, a, a) nu in sarun san sarun san taa."
       ],
       "2": [
         "psarun pa 전쟁의 패전국 sisan taa의 iusa가 (ra iuati에서 pra iuati를 사용하여) ra iuati를 멸망시켰다.",
@@ -31,7 +31,7 @@
       "sarun": "살다 만들어지다 거주하다 시작되다 작성되다 / 살리다 시작하다 만들다 작성하다",
       "iuati": "알다 알게 되다 배우다 연구하다 사실 정보 / 알리다 말하다 공유하다 대화하다",
       "rati": "먹히다 마셔지다 삼켜지다 음식 / 먹다 마시다 삼키다",
-      "nuu": "보이다 빛 낮 밝은 태양 / 보다 관찰하다 읽다",
+      "nu": "보이다 빛 낮 밝은 태양 / 보다 관찰하다 읽다",
       "sira": "들리다 이해되다 소리 파동 / 듣다 이해하다",
       "rin": "냄새나다 냄새 / 맡다",
       "ui": "사람 의인화 누군가 그들 그녀 그",
@@ -48,7 +48,7 @@
       "pnitan": "추운 차가운 시원한 얼다 얼음 / 얼리다",
       "ptitun": "짧은 얕은 낮은 가까운",
       "psarun": "죽다 망가치다 끝나다 / 죽이다 망치다 끝내다",
-      "pnuu": "보이지 않다 어둠 밤 어두운 달",
+      "pnu": "보이지 않다 어둠 밤 어두운 달",
       "pra": "작은 좁은 적은 나쁜 악한 필요 없는 지다 / 싫어하다 혐오하다"
     }
   }
