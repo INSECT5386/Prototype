@@ -1,57 +1,23 @@
-{
-  "규칙": {
-    "1": "어근 끼리 직접 결합하지 않는다",
-    "2": "후치수식을 사용한다",
-    "satava(1, 2, 3, 4, 5, 6).pt": "1가 2에서 3를 사용하여 4에게 5를 6하다",
-    "iv(1 a 2).pt": "1은 2이다",
-    "e": "이 칸은 작동하지 않는다"
-  },
-  "어근": {
-    "예문": {
-      "1": [
-        "satava(iosa su tuta vata su tuta psasu su 'sadusa psasu', satava sa, satava vutu psa, e, satava sa, psasu).pt",
-        "satava(iosa, tuta sudu psa, e, satava vutu psa, ui, sasu).pt",
-        "iv(tuta sudu psa a satava(tuta su sasu su pvutu, vata, e, e, vutu, su).pt).pt"
-      ]
-    },
-    "음소": {
-      "1": [
-        "p, t, v, d, s, a, i, u"
-      ]
-    },
-    "vata": "흐르다, 날다, 공기, 하늘, 물, 시간 / 날리다, 던지다, 버리다",
-    "psu": "이동하다, 걷다, 가다 / 놓다, 밀다, 돌려주다, 주다, 비우다",
-    "su": "자다, 쉬다 / 들다, 끌다, 가져오다, 얻다, 받다, 채우다, -의",
-    "sudu": "온도",
-    "data": "길이, 깊이, 높이, 멀리 있는 정도",
-    "sasu": "살다, 만들어지다, 거주하다, 시작되다, 작성되다 / 살리다, 시작하다, 만들다, 작성하다",
-    "psasu": "죽다, 망가치다, 끝나다 / 죽이다, 망치다, 끝내다",
-    "satava": "알다, 사실, 정보 / 알리다, 말하다, 공유하다, 대화하다",
-    "tai": "먹히다, 마셔지다, 삼켜지다, 음식 / 먹다, 마시다, 삼키다",
-    "vutu": "보이다, 빛, 낮, 밝은, 태양 / 보다, 관찰하다",
-    "pvutu": "보이지 않다, 어둠, 밤, 어두운, 달",
-    "dui": "들리다, 이해되다, 소리, 파동 / 듣다, 이해하다",
-    "dusa": "냄새나다, 냄새 / 맡다",
-    "ui": "사람, 의인화, 누군가, 그들, 그녀, 그",
-    "u": "그것, 이것, 저것",
-    "i": "나, 나의, 우리, 우리의",
-    "sadusa": "사용되다, 도구, 물건, 사물 / 사용하다, 탑승하다",
-    "tuta": "땅, 흙, 모래, 세계, 장소",
-    "sa": "큰, 넓은, 많은, 좋은, 중요한, 이기다 / 원하다, 좋아하다",
-    "psa": "작은, 좁은, 적은, 나쁜, 필요 없는, 지다 / 싫어하다, 혐오하다",
-    "suda": "기억되다, 느껴지다, 정신, 전기 / 기억하다, 느끼다, 생각하다",
-    "datuva": "교환되다, 거래되다, 바뀌다, 돈 / 교환하다, 거래하다, 바꾸다"
-  }
-}
-===
-        "satava(iosa su tuta vata su tuta psasu su 'sadusa psasu', satava sa, satava vutu psa, e, satava sa, psasu).pt",
-        "satava(iosa, tuta sudu psa, e, satava vutu psa, ui, sasu).pt",
-        "iv(tuta sudu psa a satava(tuta su sasu su pvutu, vata, e, e, vutu, su).pt).pt"
-== 해석 ==
-sadosa psasu 전쟁의 패전국, tuta vata의 요사께서 satava sa(승전국) 에서 satava vutu psa(금서) 를 사용하여 satava sa를 멸망시켰다.
+ki mi i
 
-요사께서 tuta sudu psa(요사의 신세계)에서 satava vutu psa(금서) 를 사용하여 인간을 만드신다.
+po no o
 
-tuta sudu psa는 달이 하늘에서 태양을 끌어당기는 살아있는 곳이다.
----
-내 인공어로 신화 쓸건데 이렇게 시작해버릴거야. 어떤 분위기임?
+tu u
+
+
+poitu : 정보, 지식, 기억, 느낌, 감정, 생각
+tuno : 에너지, 음식, 연료
+tui : 도구, 사물, 물질
+mino : 서로, 상호작용, 양방향, 공존
+kitua : 창조, 생명, 시작
+noi : 빛, 태양, 낮
+tukio :  높은 열
+tupo : 이동, 흐름, 공기, 물, 하늘, 시간
+nokiu : 큰, 긴, 깊은, 넓은, 먼, 무한, 큰 세계, 장소
+u : 인간, 그 사람, 그들
+o : 나, 우리
+notu : 긍정, 승리, 중요, 행복
+ki : 의 속성인, 의 소유인
+aki : 의 반대 속성인, 의 것이 아닌
+imi : 하다, 하게 하다, 해지다
+1 tu tui ki 4 imi 2 tu 3 po 5 tu 6 : 1이 도구의 속성인 4으로 2(하다, 하게 하다, 해지다) 3을 5(에서/에게서/으로부터) 6(에게/을 향해서)
