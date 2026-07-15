@@ -11,14 +11,14 @@
     "ht": "이 칸은 작동하지 않는다 | 공백"
   },
   "예문": {
-    "hprc sn ht tn sclc sn hlt hrps tn srpt hlt sn ht.": "(나는 생각한다 큰 음식을 집에서) # 사용 도구가 필수가 아니고, 목적지가 없음 : 직접 행동",
-    "hprc sn crc tlt tn crc sn hlt hrps tn srpt hlt sn sclc hlt.": "(나는 이동 도구를 사용해서 이동시킨다 큰 음식을 집에서 데이터 센터를 향해) : 목적어가 있고, 목적지가 있기 때문에 '이동하다' 가 아니라 '이동시키다' 로 해석함"
+    "hprc sn ht tn teel sn hlt hrps tn srpt hlt sn ht.": "(나는 생각한다 큰 음식을 집에서) # 사용 도구가 필수가 아니고, 목적지가 없음 : 직접 행동",
+    "hprc sn crc tlt tn crc sn hlt hrps tn srpt hlt sn teel hlt.": "(나는 이동 도구를 사용해서 이동시킨다 큰 음식을 집에서 데이터 센터를 향해) : 목적어가 있고, 목적지가 있기 때문에 '이동하다' 가 아니라 '이동시키다' 로 해석함"
   },
   "음소": {
     "자음": "s c t p r l h n"
   },
   "어근": {
-    "sclc": "정보, 지식, 기억, 느낌, 감정, 생각",
+    "teel": "정보, 지식, 기억, 느낌, 감정, 생각",
     "hrps": "에너지, 음식, 연료",
     "tlt": "도구, 사물, 물질",
     "srn": "서로, 상호작용, 양방향, 공존",
