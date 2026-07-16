@@ -16,10 +16,10 @@
     "nel an neen toon to neen an poog nool to natan poog an teel poog.": "(나는 이동 도구를 사용해서 이동시킨다 큰 음식을 집에서 데이터 센터를 향해) : 목적어가 있고, 목적지가 있기 때문에 '이동하다' 가 아니라 '이동시키다' 로 해석함"
   },
   "예문": {
-    "nel an teela toon to natan an tagale to teele poog an e.": "나는 생각하는 도구를 사용해서 만든다 발전을 학문의 장소에서"
+    "nel an teelkh toon to natan an tagale to teele poog an e.": "나는 생각하는 도구를 사용해서 만든다 발전을 학문의 장소에서"
   },
   "음소": {
-    "자음": "t, p, g, l, n",
+    "자음": "t, p, g, l, n, kh",
     "모음": "e, a, o"
   },
   "어근": {
@@ -47,10 +47,10 @@
       "neene": "자유, 통제 받지 않는, 시간, 하늘",
       "pooge": "무한한, 영원한, 불멸의, 추상적인"
     },
-    "-a : (-들이 모여 생기는 것/-들이 모으는 이유)": {
-      "teela": "감정, 생각, 계산, 예측",
-      "noola": "힘",
-      "tepena": "평화, 협력, 도움, 공동체, 사회"
+    "-kh : (-들이 모여 생기는 것/-들이 모으는 이유)": {
+      "teelkh": "감정, 생각, 계산, 예측",
+      "noolkh": "힘",
+      "tepenkh": "평화, 협력, 도움, 공동체, 사회"
     }
   }
 }
