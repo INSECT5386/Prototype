@@ -11,9 +11,12 @@
     "1, 2": "1은 2이다",
     "e": "이 칸은 작동하지 않는다 | 공백"
   },
-  "예문": {
+  "문법설명": {
     "nel an e to teel an poog nool to natan poog an e.": "(나는 생각한다 큰 음식을 집에서) # 사용 도구가 필수가 아니고, 목적지가 없음 : 직접 행동",
     "nel an neen toon to neen an poog nool to natan poog an teel poog.": "(나는 이동 도구를 사용해서 이동시킨다 큰 음식을 집에서 데이터 센터를 향해) : 목적어가 있고, 목적지가 있기 때문에 '이동하다' 가 아니라 '이동시키다' 로 해석함"
+  },
+  "예문": {
+    "nel an teela toon to natan an tagale to teele poog an e.": "나는 생각하는 도구를 사용해서 만든다 발전을 학문의 장소에서"
   },
   "음소": {
     "자음": "t, p, g, l, n",
@@ -40,6 +43,7 @@
       "noole": "전기, 전자",
       "toone": "물리, 현실, 가능성 있는",
       "tepene": "결과, 결론",
+      "tagale": "혁신, 혁명, 발전, 개선",
       "neene": "자유, 통제 받지 않는, 시간, 하늘",
       "pooge": "무한한, 영원한, 불멸의, 추상적인"
     },
