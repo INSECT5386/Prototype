@@ -12,41 +12,41 @@
     "e": "이 칸은 작동하지 않는다 | 공백"
   },
   "문법설명": {
-    "nel an e to tīkh an poukh noukh to natan poukh an e.": "(나는 생각한다 큰 음식을 집에서) # 사용 도구가 필수가 아니고, 목적지가 없음 : 직접 행동",
-    "nel an neen toun to neen an poukh noukh to natan poukh an tīkh poukh.": "(나는 이동 도구를 사용해서 이동시킨다 큰 음식을 집에서 데이터 센터를 향해) : 목적어가 있고, 목적지가 있기 때문에 '이동하다' 가 아니라 '이동시키다' 로 해석함"
+    "nilen an e to tīkh an poghukh noukh to natan poghukh an e.": "(나는 생각한다 큰 음식을 집에서) # 사용 도구가 필수가 아니고, 목적지가 없음 : 직접 행동",
+    "nilen an nitina tobun to nitina an poghukh noukh to natan poghukh an tīkh poghukh.": "(나는 이동 도구를 사용해서 이동시킨다 큰 음식을 집에서 데이터 센터를 향해) : 목적어가 있고, 목적지가 있기 때문에 '이동하다' 가 아니라 '이동시키다' 로 해석함"
   },
   "예문": {
-    "nel an tīkh toun to natan an takhale to tīkhe poukh an e.": "나는 생각하는 도구를 사용해서 만든다 발전을 학문의 장소에서"
+    "nel an tīkh tobun to natan an takhali to tīkhe poghukh an e.": "나는 생각하는 도구를 사용해서 만든다 발전을 학문의 장소에서"
   },
   "어근": {
     "tīkh": "정보, 지식, 기록, 기억",
     "noukh": "에너지, 음식, 연료",
-    "toun": "도구, 사물, 물질",
-    "tepen": "서로, 상호작용, 양방향, 공존, 존재",
+    "tobun": "도구, 사물, 물질",
+    "taipin": "서로, 상호작용, 양방향, 공존, 존재",
     "natan": "창조, 생명, 시작",
     "napakh": "빛, 태양, 낮",
     "pakhal": "높은 열",
-    "neen": "이동, 흐름, 공기, 물",
+    "nitina": "이동, 흐름, 공기, 물",
     "takhal": "변화, 변동",
-    "penel": "긍정, 승리, 중요, 간단한, 편한",
-    "poukh": "큰, 긴, 깊은, 넓은, 먼, 큰 세계, 장소",
-    "nel": "그, 그녀, 그들, 우리 종족의 누군가, 나, 우리",
-    "net": "의 반대 속성인 것, 의 것이 아닌 것"
+    "painelu": "긍정, 승리, 중요, 간단한, 편한",
+    "poghukh": "큰, 긴, 깊은, 넓은, 먼, 큰 세계, 장소",
+    "nilen": "그, 그녀, 그들, 우리 종족의 누군가, 나, 우리",
+    "nit": "의 반대 속성인 것, 의 것이 아닌 것"
   },
   "접사 복합어": {
-    "-e : (-들이 모인 것/-들이 강한 것)": {
-      "tīkhe": "통계, 역사, 학문",
-      "noule": "전기, 전자",
-      "toune": "물리, 현실, 가능성 있는",
-      "tepene": "결과, 결론",
-      "takhale": "혁신, 혁명, 발전, 개선",
-      "neene": "자유, 통제 받지 않는, 시간, 하늘",
-      "poukhe": "무한한, 영원한, 불멸의, 추상적인"
+    "-i : (-들이 모인 것/-들이 강한 것)": {
+      "tīkhi": "통계, 역사, 학문",
+      "nouli": "전기, 전자",
+      "tobuni": "물리, 현실, 가능성 있는",
+      "taipini": "결과, 결론",
+      "takhali": "혁신, 혁명, 발전, 개선",
+      "nitinai": "자유, 통제 받지 않는, 시간, 하늘",
+      "poghukhi": "무한한, 영원한, 불멸의, 추상적인"
     },
     "-an : (-들이 모여 생기는 것/-들이 모으는 이유)": {
       "tīkhan": "감정, 생각, 계산, 예측",
       "noukhan": "힘",
-      "tepenan": "평화, 협력, 도움, 공동체, 사회"
+      "taipinan": "평화, 협력, 도움, 공동체, 사회"
     }
   }
 }
