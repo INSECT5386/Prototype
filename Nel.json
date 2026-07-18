@@ -20,7 +20,7 @@
   },
   "예문": {
     "1": [
-      "eona, penel net poog an natan toon to natan an tagale toone to tagale net toone an e.",
+      "eona, enpenel poog an natan toon to natan an tagale toone to entagale toone an e.",
       "패전국의 에오나가 창조의 도구를 사용하여 구세계에서 신세계를 창조한다."
     ]
   },
@@ -40,8 +40,7 @@
     "tagal": "변화, 변동",
     "penel": "긍정, 승리, 중요, 간단한, 편한",
     "poog": "큰, 긴, 깊은, 넓은, 먼, 큰 세계, 장소",
-    "nel": "그, 그녀, 그들, 우리 종족의 누군가, 나, 우리",
-    "net": "의 반대 속성인 것, 의 것이 아닌 것"
+    "nel": "그, 그녀, 그들, 우리 종족의 누군가, 나, 우리"
   },
   "접사 복합어": {
     "-e : (-들이 모인 것/-들이 강한 것)": {
@@ -57,6 +56,9 @@
       "teelkh": "감정, 생각, 계산, 예측",
       "noolkh": "힘",
       "tepenkh": "평화, 협력, 도움, 공동체, 사회"
+    },
+    "en- : 의 반대 속성인, 의 것이 아닌": {
+      "규칙": "접두사이며, 모든 어근에 붙을 수 있다"
     }
   }
 }
