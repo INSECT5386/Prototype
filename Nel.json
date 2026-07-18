@@ -14,7 +14,7 @@
     },
     "문법 설명": {
       "ne an e an oepeen teel to ne an peen teel.": "나는 도구 없이 나쁜 정보를 나에게서 좋은 정보의 형태로 변화시키다. [나는 나쁜 기억을 좋은 기억의 형태로 생각한다]",
-      "ne an nag noolkh an poog nool nag to neen noolkhe an teel noolkhe.": "나는 움직이는 도구를 사용해서 큰 음식의 위치를 집에서 데이터 센터를 향해 변화시킨다."
+      "ne an nag noolkh an poog nool nag to nen noolkhe an teel noolkhe.": "나는 움직이는 도구를 사용해서 큰 음식의 위치를 집에서 데이터 센터를 향해 변화시킨다."
     }
   },
   "음소": {
@@ -29,8 +29,8 @@
     "peen": "긍정, 중요, 쓸모 있는, 열을 내지 않는",
     "poog": "큰, 긴, 깊은, 넓은, 먼",
     "nool": "에너지, 연료, 음식",
-    "neen": "생명, 생물, 생존",
     "nag": "위치, 좌표",
+    "nen": "생명, 생물, 생존",
     "ne": "그, 그녀, 그들, 우리 종족의 누군가, 나, 우리"
   },
   "복합어": {
