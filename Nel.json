@@ -15,7 +15,7 @@
     },
     "문법 설명": {
       "nel an e an oepenel teel to nel an penel teel to tagal.": "나는 도구 없이 나쁜 정보를 나에게서 좋은 정보의 형태로 변화시키다. [나는 나쁜 기억을 좋은 기억의 형태로 생각한다]",
-      "nel an neen toon an poog nool to natan poog an teel poog to neen.": "나는 움직이는 도구를 사용해서 큰 음식을 집에서 데이터 센터를 향해 이동시킨다."
+      "nel an neen noolkh an poog nool to natan poog an teel poog to neen.": "나는 움직이는 도구를 사용해서 큰 음식을 집에서 데이터 센터를 향해 이동시킨다."
     }
   },
   "음소": {
@@ -24,8 +24,7 @@
   },
   "어근": {
     "teel": "정보, 지식, 기록, 기억",
-    "nool": "에너지, 음식, 연료",
-    "toon": "도구, 사물, 물질",
+    "nool": "에너지, 연료, 음식",
     "tepen": "양방향, 공존, 존재",
     "natan": "창조, 생명, 시작",
     "napag": "빛, 태양, 낮",
@@ -47,7 +46,7 @@
       "pooge": "무한한, 영원한, 불멸의, 추상적인"
     },
     "-kh : (-들이 모여 생기는 것/-들이 모으는 이유)": {
-      "noolkh": "힘"
+      "noolkh": "힘, 도구, 사물, 물질"
     },
     "oe- : 의 반대 속성인, 의 것이 아닌": {
       "규칙": "접두사이며, 모든 어근에 붙을 수 있다"
