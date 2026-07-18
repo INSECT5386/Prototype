@@ -14,7 +14,7 @@
     },
     "문법 설명": {
       "nel an e to teel an poog nool to natan poog an e.": "사용 도구가 필수 아님, 목적지가 없음 : 직접 행동",
-      "nel an neen toon to neen an poog nool to natan poog an teel poog.": "목적어와 목적지 존재하기 때문에 '이동하다' 이 아닌 '이동시키다' 로 해석"
+      "nel an kheen toon to kheen an poog nool to natan poog an teel poog.": "목적어와 목적지 존재하기 때문에 '이동하다' 이 아닌 '이동시키다' 로 해석"
     }
   },
   "예문": {
@@ -35,7 +35,7 @@
     "natan": "창조, 생명, 시작",
     "napag": "빛, 태양, 낮",
     "pagal": "높은 열",
-    "neen": "이동, 흐름, 공기, 물",
+    "kheen": "이동, 흐름, 공기, 물",
     "tagal": "변화, 변동",
     "penel": "긍정, 승리, 중요, 간단한, 편한",
     "poog": "큰, 긴, 깊은, 넓은, 먼, 큰 세계, 장소",
@@ -48,7 +48,7 @@
       "toone": "물리, 현실, 가능성 있는",
       "tepene": "결과, 결론",
       "tagale": "혁신, 혁명, 발전, 개선, 새로운",
-      "neene": "자유, 통제 받지 않는, 시간, 하늘",
+      "kheene": "자유, 통제 받지 않는, 시간, 하늘",
       "pooge": "무한한, 영원한, 불멸의, 추상적인"
     },
     "-kh : (-들이 모여 생기는 것/-들이 모으는 이유)": {
