@@ -15,7 +15,7 @@
     },
     "문법 설명": {
       "nel an e an oepenel teel to nel an penel teel to tagal.": "나는 도구 없이 나쁜 정보를 나에게서 좋은 정보의 형태로 변화시키다. [나는 나쁜 기억을 좋은 기억의 형태로 생각한다]",
-      "nel an neen noolkh an poog nool to natan poog an teel poog to neen.": "나는 움직이는 도구를 사용해서 큰 음식을 집에서 데이터 센터를 향해 이동시킨다."
+      "nel an neen noolkh an poog nool to natan poogkh an teel poogkh to neen.": "나는 움직이는 도구를 사용해서 큰 음식을 집에서 데이터 센터를 향해 이동시킨다."
     }
   },
   "음소": {
@@ -31,7 +31,7 @@
     "neen": "이동, 흐름, 공기, 물",
     "tagal": "변화, 변동, 새로운",
     "penel": "긍정, 중요, 쓸모 있는, 열을 내지 않는",
-    "poog": "큰, 긴, 깊은, 넓은, 먼, 큰 세계, 장소",
+    "poog": "큰, 긴, 깊은, 넓은, 먼",
     "nel": "그, 그녀, 그들, 우리 종족의 누군가, 나, 우리"
   },
   "복합어": {
@@ -42,7 +42,8 @@
       "pooge": "무한한, 영원한, 불멸의"
     },
     "-kh : (-들이 모여 생기는 것/-들이 모으는 이유)": {
-      "noolkh": "힘, 도구, 사물, 물질"
+      "noolkh": "힘, 도구, 사물, 물질",
+      "poogkh": "장소, 공간"
     },
     "oe- : 의 반대 속성인, 의 것이 아닌": {
       "규칙": "접두사이며, 모든 어근에 붙을 수 있다"
