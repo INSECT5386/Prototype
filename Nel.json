@@ -16,10 +16,8 @@
       "1 to 2 no 3 to 4 no 5": "(격틀) 1이 2를 3(에서/에게서/으로부터) 4(에게/을 향해서/의 형태로) 5을 사용해서",
       "oe-" : "(지정 접사), (의 반대 속성, 의 것이 아님)",
       "e": "공백",
-      "예시": {
-        "on to oeteg toge no on to teg toge no e.": "나는 나쁜 정보를 나에게서 좋은 정보의 형태로 도구 없이 변환시킨다.",
-        "on to 10-5-3 ceg nen ceg no on nen to teg nen no e.": "나는 크기 10-5-3부피의 음식의 위치를 집에서 데이터 센터를 향해 도구 없이 변화시킨다."
-      }
+      "ex)on to oeteg toge no on to teg toge no e.": "나는 나쁜 정보를 나에게서 좋은 정보의 형태로 도구 없이 변환시킨다.",
+      "ex)on to 10-5-3 ceg nen ceg no on nen to teg nen no e.": "나는 크기 10-5-3부피의 음식의 위치를 집에서 데이터 센터를 향해 도구 없이 변화시킨다."
     }
   }
 }
