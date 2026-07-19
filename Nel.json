@@ -18,14 +18,13 @@
         },
         "문법 설명": {
           "on to oepaga toge no on to paga toge no e.": "나는 나쁜 정보를 나에게서 좋은 정보의 형태로 도구 없이 변환시킨다. [나는 나쁜 기억을 좋은 기억의 형태로 생각한다]",
-          "on to ceg nen nag no pena conen to cepe conen no e.": "나는 큰 음식의 위치를 집에서 데이터 센터를 향해 도구 없이 변화시킨다."
+          "on to ceg nen nag no pena conen to oeteg conen no e.": "나는 큰 음식의 위치를 집에서 데이터 센터를 향해 도구 없이 변화시킨다."
         }
       }
     },
     "어근": {
       "nate": "밝은, 스스로 빛을 내는, 빛",
-      "cepe": "시작, 새로운, 다른",
-      "teg": "반복, 중복, 존재",
+      "teg": "반복, 중복, 존재, 끝, 오래된",
       "paga": "긍정, 중요, 쓸모 있는, 열을 내지 않는",
       "ceg": "큰, 긴, 깊은, 넓은, 먼",
       "toge": "정보, 지식, 기록, 기억",
